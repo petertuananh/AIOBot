@@ -1,0 +1,150 @@
+06:44:28.908 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:44:31.249 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:44:33.903 ERROR Đã có lỗi xảy ra: message.guild.roles.find is not a function. 
+06:45:06.893 ERROR Đã có lỗi xảy ra: message.guild.roles.find is not a function. 
+06:46:06.925 ERROR Đã có lỗi xảy ra: message.guild.roles.find is not a function. 
+06:46:08.525 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:46:10.554 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:46:29.678 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:46:32.808 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:58:41.872 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:58:44.221 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:58:45.950 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'roles'). 
+07:00:46.810 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:00:48.787 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:39:45.550 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:39:48.376 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:05:22.159 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:05:55.495 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:06:26.044 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:06:26.048 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:06:26.051 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:06:26.053 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:06:27.407 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:06:27.410 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:06:27.414 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:06:27.416 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:06:46.192 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:06:49.029 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:06:55.964 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:06:55.969 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:06:55.971 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:07:31.977 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:07:36.082 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:07:36.089 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:07:39.798 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:07:39.803 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:07:39.805 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:08:03.028 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:08:04.987 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:08:12.080 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'fetchMember'). 
+18:08:12.083 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:08:12.086 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:09:22.426 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'fetchMember'). 
+18:09:37.791 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:09:37.799 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:09:37.809 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:09:37.812 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:09:39.108 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:09:41.251 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:09:47.584 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:09:47.588 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:09:47.592 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:10:04.555 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:10:04.563 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:10:04.565 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:11:34.561 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:11:34.565 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'fetchMember'). 
+18:11:34.568 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:11:34.570 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:55:02.008 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:55:14.487 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:55:19.733 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:55:19.738 ERROR Đã có lỗi xảy ra: prefix is not defined. 
+18:55:19.742 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:55:19.745 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:55:25.238 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:55:25.243 ERROR Đã có lỗi xảy ra: prefix is not defined. 
+18:55:25.246 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:55:25.249 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:55:30.757 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:55:32.759 ERROR Đã có lỗi xảy ra: prefix is not defined. 
+18:55:32.766 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:55:32.773 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:55:39.677 ERROR Đã có lỗi xảy ra: prefix is not defined. 
+18:56:14.139 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:56:17.638 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:56:29.798 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:56:29.803 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:56:29.807 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:56:49.165 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:56:52.359 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:56:57.777 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:56:57.782 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'fetchMember'). 
+18:56:57.786 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:03:18.552 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:03:20.979 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:03:36.321 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:03:36.326 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:03:36.330 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:03:36.648 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:03:36.651 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:03:36.654 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:03:56.587 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:03:58.830 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:04:09.195 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:04:09.199 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:04:10.311 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:04:10.313 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:04:15.381 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:04:15.385 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:04:16.182 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:04:16.185 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:14:50.512 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:14:50.515 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:14:54.645 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:14:54.648 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:15:15.425 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:15:15.428 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:15:16.505 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:15:16.508 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:15:17.673 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:15:17.678 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:17:29.947 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:17:29.950 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:17:30.332 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:17:30.335 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:17:33.110 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:17:33.113 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:29:00.130 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:29:02.879 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:29:22.564 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'MessageEmbed'). 
+19:29:22.568 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:29:22.572 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:29:22.575 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:29:37.961 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'MessageEmbed'). 
+19:29:42.765 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:29:42.774 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:29:42.778 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+20:02:19.120 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:02:21.563 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:02:31.337 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+20:02:31.341 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+20:02:31.757 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+20:02:31.761 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+20:03:12.016 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:03:14.263 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:03:20.622 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+20:03:21.428 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+20:03:45.566 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:03:47.888 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:44:01.799 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:44:04.574 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:46:05.799 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+21:46:29.361 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:46:31.723 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:46:40.131 ERROR Đã có lỗi xảy ra: AIChatBot is not defined. 
+21:46:40.858 ERROR Đã có lỗi xảy ra: AIChatBot is not defined. 
+21:46:42.104 ERROR Đã có lỗi xảy ra: AIChatBot is not defined. 
+21:47:06.019 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:47:08.552 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 

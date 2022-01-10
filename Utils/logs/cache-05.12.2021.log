@@ -1,0 +1,17 @@
+07:29:37.166 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:29:51.636 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:31:35.367 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:31:37.133 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:35:04.080 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:35:05.896 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:47:27.450 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:47:29.326 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:48:02.759 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:48:04.520 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:50:40.011 ERROR Đã có lỗi xảy ra: Unknown Message. 
+12:52:15.655 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:52:17.488 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:36:20.336 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+15:01:09.642 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+15:03:54.995 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "defaul" is not supported. Scheme must be one of ('http', 'https').. 

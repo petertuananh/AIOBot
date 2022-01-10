@@ -1,0 +1,119 @@
+09:26:54.202 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:27:23.564 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+09:29:09.455 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:29:12.195 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+09:41:19.410 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:41:25.155 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+09:44:45.644 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+09:45:56.368 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:46:09.543 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+09:46:16.221 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:46:37.530 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+09:50:41.493 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+09:50:42.002 ERROR Have an error: Unknown Message. 
+09:50:43.139 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+09:52:42.819 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+09:53:02.263 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:53:14.493 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+09:53:36.631 ERROR Have an error: Cannot read properties of undefined (reading 'username'). 
+09:54:12.390 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+09:54:43.799 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:54:46.982 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+09:55:53.228 ERROR Have an error: MessageEmbed author name must be a string.. 
+09:56:14.539 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:56:16.871 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+09:57:01.028 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+09:57:07.090 ERROR Have an error: MessageEmbed author name must be a string.. 
+09:57:20.403 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+10:23:09.856 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:23:23.246 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:23:50.328 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:23:51.223 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:24:21.237 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:24:22.309 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:24:22.324 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:24:33.539 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:24:35.784 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:24:42.830 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:24:54.375 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:24:54.387 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:24:54.392 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:25:11.322 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:25:13.966 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:25:19.672 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:25:19.680 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:25:20.248 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:25:44.819 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:25:45.085 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:25:45.175 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:25:46.975 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:25:47.201 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:25:47.828 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:25:57.822 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:26:03.099 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:26:04.602 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:26:20.586 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:26:20.984 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:26:20.993 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:26:22.620 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:26:51.443 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:27:08.599 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:27:09.951 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:27:09.959 ERROR Have an error: MessageEmbed author name must be a string.. 
+10:27:10.880 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:27:11.574 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:27:13.829 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:27:15.799 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:27:23.352 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:27:33.728 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+10:27:38.117 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+12:44:34.840 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:45:06.430 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:45:26.898 ERROR Have an error: Cannot read properties of null (reading 'id'). 
+12:46:26.910 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:46:28.927 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:48:45.214 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:48:47.653 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:52:05.516 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:52:07.888 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:52:40.203 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:52:42.589 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:54:01.795 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:54:03.773 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:54:56.966 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:54:59.228 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:56:18.008 ERROR Have an error: Cannot read properties of null (reading 'id'). 
+12:57:06.937 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:57:08.991 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:57:18.927 ERROR Have an error: Cannot read properties of null (reading 'id'). 
+12:57:56.709 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:57:58.473 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:32:04.907 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:32:37.973 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:33:32.721 ERROR Have an error: Cannot read properties of null (reading 'id'). 
+14:33:32.729 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+14:34:41.269 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:34:43.958 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:35:14.183 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+14:35:19.873 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+14:35:26.281 ERROR Have an error: MessageEmbed author name must be a string.. 
+14:35:40.605 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+14:39:43.236 ERROR Have an error: MessageEmbed author name must be a string.. 
+16:37:05.173 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:37:40.572 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:37:57.509 ERROR Have an error: Unknown Message. 
+16:38:01.059 ERROR Have an error: Unknown Message. 
+16:38:15.230 ERROR Have an error: Unknown Message. 
+16:38:16.347 ERROR Have an error: Unknown Message. 
+16:38:17.356 ERROR Have an error: Unknown Message. 
+16:38:19.318 ERROR Have an error: Unknown Message. 
+16:38:20.071 ERROR Have an error: Unknown Message. 
+16:38:52.251 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:38:54.805 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:43:17.732 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:43:20.265 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:43:53.520 ERROR Have an error: MessageEmbed field names must be non-empty strings.. 
+16:45:46.871 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:45:49.557 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:46:59.168 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:47:01.653 INFO  c Loading event(s) -=-=-=-=-=-=-= 

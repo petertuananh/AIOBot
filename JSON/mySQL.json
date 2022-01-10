@@ -1,0 +1,8 @@
+{
+    "mysql": {
+        "host": "sql.cookiegmvn.xyz",
+        "user": "aio_bot",
+        "password": "iOU1kTbwnd8jPyL6",
+        "database": "aiobot_db"
+    }
+}

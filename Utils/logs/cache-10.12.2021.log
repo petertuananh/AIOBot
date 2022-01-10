@@ -1,0 +1,89 @@
+07:22:06.604 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:22:36.821 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:23:19.300 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:23:21.410 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:23:40.626 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+07:24:03.608 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:24:05.543 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:28:59.143 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:29:01.829 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:29:53.594 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:29:56.148 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:30:23.676 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:30:26.113 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:25:20.751 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:25:23.242 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:45:16.122 ERROR Đã có lỗi xảy ra: The operation was aborted. 
+09:51:11.843 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:51:31.144 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:53:34.379 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:53:39.536 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:56:22.839 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:56:26.603 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:57:35.493 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:57:37.930 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+10:17:27.097 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:17:30.297 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+10:17:34.530 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:17:37.209 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+10:40:14.890 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:40:18.582 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+10:44:02.416 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+10:45:07.754 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:45:10.396 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+10:45:38.075 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+10:45:54.576 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+10:46:20.892 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:46:23.963 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+10:47:22.704 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:47:25.523 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:40:56.934 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:41:09.118 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:16:55.503 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:17:14.921 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:17:31.402 ERROR Đã có lỗi xảy ra: channel is not defined. 
+13:17:58.175 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:18:00.931 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:18:05.010 ERROR Đã có lỗi xảy ra: Client not provided, Ticket system will not be working.. 
+13:23:09.280 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:23:11.895 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:24:41.484 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:24:44.071 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:26:36.559 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:26:39.317 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:27:01.563 ERROR Đã có lỗi xảy ra: prefix is not defined. 
+13:28:13.259 ERROR Đã có lỗi xảy ra: prefix is not defined. 
+13:28:59.104 ERROR Đã có lỗi xảy ra: message.member.hasPermission is not a function. 
+13:32:19.319 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:32:22.188 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:32:59.432 ERROR Đã có lỗi xảy ra: messages.array is not a function. 
+13:34:33.660 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:34:36.798 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:34:41.495 ERROR Đã có lỗi xảy ra: messages.values(...).reverse is not a function. 
+13:36:33.128 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:36:35.736 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:38:21.208 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'clone'). 
+13:39:27.205 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:39:30.045 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:40:53.660 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:40:56.200 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:43:00.520 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:43:03.321 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:44:12.619 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:44:15.075 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:47:09.465 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:47:13.206 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:47:35.078 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:47:38.004 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:49:28.610 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:49:31.968 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:52:35.277 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:52:38.305 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:53:39.514 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:53:42.420 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:02:40.640 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:02:43.304 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:07:00.157 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:07:03.237 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:07:54.135 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:07:57.895 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 

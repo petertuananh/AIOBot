@@ -1,0 +1,318 @@
+06:23:13.657 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:23:16.835 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:24:22.904 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:24:24.526 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:24:35.584 ERROR Đã có lỗi xảy ra: Invalid Form Body
+components[0].components[1].style: This field is required. 
+06:25:30.776 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:25:32.330 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:25:44.625 ERROR Đã có lỗi xảy ra: MessageActionRows is not defined. 
+06:26:02.881 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:26:04.411 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:26:16.717 ERROR Đã có lỗi xảy ra: (intermediate value).addComponent is not a function. 
+06:26:55.411 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:26:57.007 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:28:04.130 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:28:05.705 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:28:12.956 ERROR Đã có lỗi xảy ra: percent is not defined. 
+06:29:28.200 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:29:29.778 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:33:57.164 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:33:58.822 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:34:29.525 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:34:31.113 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:34:45.786 ERROR Đã có lỗi xảy ra: Invalid Form Body
+components[0].components[0].style: This field is required. 
+06:35:27.109 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:35:28.701 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:35:34.753 ERROR Đã có lỗi xảy ra: Invalid Form Body
+components[0].components[0].custom_id: A custom id and url cannot both be specified
+components[0].components[0].url: A custom id and url cannot both be specified. 
+06:35:49.109 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:35:50.675 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:42:37.450 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:42:39.013 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:42:49.728 ERROR Đã có lỗi xảy ra: Invalid Form Body
+components[0]: The specified component type is invalid in this context. 
+06:45:23.008 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:45:24.589 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:45:30.921 ERROR Đã có lỗi xảy ra: creadtedAt is not defined. 
+06:46:15.422 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:46:17.087 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:46:22.459 ERROR Đã có lỗi xảy ra: member is not defined. 
+06:48:22.930 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:48:24.522 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:48:45.028 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:48:46.732 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:48:54.055 ERROR Đã có lỗi xảy ra: Invalid Form Body
+components[0].components[0].style: This field is required. 
+06:49:31.422 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:49:33.081 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:05:48.587 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'setName'). 
+07:25:56.358 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:25:58.144 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:27:02.646 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:27:04.267 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:28:03.489 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'setName'). 
+07:28:19.229 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:28:20.876 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:30:39.576 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'setName'). 
+07:37:56.798 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:37:58.457 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:38:19.371 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:38:21.020 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:38:38.842 ERROR Đã có lỗi xảy ra: [InvalidTrack] invalid track. 
+07:40:07.630 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:40:09.292 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:42:41.687 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:42:43.349 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:54:22.237 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:54:24.001 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:54:58.323 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'displayBannerURL'). 
+07:55:02.634 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'setName'). 
+07:57:05.897 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:57:08.340 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:58:45.905 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'banner'). 
+07:59:39.061 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:59:40.761 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:59:53.376 ERROR Đã có lỗi xảy ra: getUserBannerUrl is not defined. 
+08:00:42.808 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:00:44.611 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:00:51.269 ERROR Đã có lỗi xảy ra: getUserBannerUrl is not defined. 
+08:08:30.195 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:08:31.864 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:09:18.884 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:09:20.548 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:12:31.702 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:12:33.956 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:13:59.126 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:14:01.234 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:14:05.969 ERROR Đã có lỗi xảy ra: member.displayBannerURL is not a function. 
+08:15:35.608 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:15:37.509 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:16:17.346 ERROR Đã có lỗi xảy ra: getUserBannerUrl is not defined. 
+08:22:56.300 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:22:58.236 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:23:22.733 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:23:24.652 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:24:10.544 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:24:12.484 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:25:16.433 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:25:18.184 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:27:32.322 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:27:35.578 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:30:30.260 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:30:32.038 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:30:44.213 ERROR Đã có lỗi xảy ra: Missing Access. 
+08:33:34.497 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:33:36.368 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:37:34.881 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:37:38.813 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:37:43.647 ERROR Đã có lỗi xảy ra: Missing Access. 
+08:38:06.389 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:38:08.986 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:39:08.702 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:39:11.024 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:40:35.342 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:40:37.572 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:41:20.769 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:41:22.593 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:41:45.865 ERROR Đã có lỗi xảy ra: Missing Access. 
+08:43:37.517 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:43:39.308 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:44:16.773 ERROR Đã có lỗi xảy ra: Missing Access. 
+08:49:42.497 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:49:44.733 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:05:46.636 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:05:47.371 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:11:18.460 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:11:20.670 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:14:27.964 ERROR Đã có lỗi xảy ra: ENOENT: no such file or directory, lstat 'D:\AIO\dashboard'. 
+09:15:05.904 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:15:07.734 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+10:43:43.193 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:43:48.673 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:22:38.508 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:22:41.563 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:24:20.298 ERROR Đã có lỗi xảy ra: The operation was aborted. 
+13:28:42.142 ERROR Đã có lỗi xảy ra: The operation was aborted. 
+13:35:24.469 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:35:26.248 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:35:31.355 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+13:39:43.362 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:39:45.126 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:48:50.803 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'setName'). 
+15:04:48.560 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:04:57.826 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:05:35.135 ERROR Đã có lỗi xảy ra: Message content must be a non-empty string.. 
+15:07:03.873 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:07:05.719 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:07:34.761 ERROR Đã có lỗi xảy ra: Message content must be a non-empty string.. 
+15:07:35.119 ERROR Đã có lỗi xảy ra: Message content must be a non-empty string.. 
+15:08:30.646 ERROR Đã có lỗi xảy ra: Message content must be a non-empty string.. 
+15:08:58.530 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:09:00.904 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:10:10.008 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:10:11.869 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:10:25.353 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:10:27.212 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:10:35.220 ERROR Đã có lỗi xảy ra: getwelcomeChannelCheck.send is not a function. 
+15:10:37.517 ERROR Đã có lỗi xảy ra: getwelcomeChannelCheck.send is not a function. 
+15:10:41.966 ERROR Đã có lỗi xảy ra: getwelcomeChannelCheck.send is not a function. 
+15:10:44.340 ERROR Đã có lỗi xảy ra: getwelcomeChannelCheck.send is not a function. 
+15:10:47.523 ERROR Đã có lỗi xảy ra: getwelcomeChannelCheck.send is not a function. 
+15:10:50.112 ERROR Đã có lỗi xảy ra: getwelcomeChannelCheck.send is not a function. 
+15:11:05.694 ERROR Đã có lỗi xảy ra: getwelcomeChannelCheck.send is not a function. 
+15:11:31.168 ERROR Đã có lỗi xảy ra: getwelcomeChannelCheck.send is not a function. 
+15:12:15.080 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:12:17.194 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:12:25.912 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'send'). 
+15:12:35.066 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'send'). 
+15:12:54.901 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:12:56.753 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:13:06.710 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'send'). 
+15:14:15.281 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:14:17.114 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:15:39.989 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:15:41.825 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:16:20.953 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:16:22.753 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:20:52.194 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:20:54.004 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:22:30.619 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:22:32.470 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:22:35.687 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:22:37.019 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:22:37.721 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:22:38.109 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:22:38.516 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:22:38.908 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:22:39.292 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:22:39.672 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:22:40.099 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:24:09.091 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:24:15.704 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:24:16.124 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:24:16.544 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:24:16.936 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:24:17.724 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:24:29.481 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:25:23.667 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:25:26.156 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:25:42.390 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:26:22.698 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:26:31.269 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:26:46.180 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:26:46.351 ERROR Đã có lỗi xảy ra: db.get(...).send is not a function. 
+15:27:46.946 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:27:48.850 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:29:29.147 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:29:30.937 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:32:28.864 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:32:31.129 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:33:03.448 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:33:05.456 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:33:08.344 ERROR Đã có lỗi xảy ra: member.send is not a function. 
+15:33:08.848 ERROR Đã có lỗi xảy ra: member.send is not a function. 
+15:33:09.281 ERROR Đã có lỗi xảy ra: member.send is not a function. 
+15:33:09.657 ERROR Đã có lỗi xảy ra: member.send is not a function. 
+15:33:10.023 ERROR Đã có lỗi xảy ra: member.send is not a function. 
+15:33:10.406 ERROR Đã có lỗi xảy ra: member.send is not a function. 
+15:33:34.237 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:33:36.089 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:35:19.355 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:35:21.153 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:35:33.783 ERROR Đã có lỗi xảy ra: message is not defined. 
+15:35:37.122 ERROR Đã có lỗi xảy ra: message is not defined. 
+15:35:37.494 ERROR Đã có lỗi xảy ra: message is not defined. 
+15:35:46.405 ERROR Đã có lỗi xảy ra: message is not defined. 
+15:35:54.621 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:35:56.438 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:37:15.714 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:37:17.560 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:38:08.930 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+18:40:33.930 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+20:56:32.660 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:56:40.022 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:56:51.536 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:56:53.345 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:57:58.587 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+20:58:00.893 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+20:58:01.649 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+20:58:04.998 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+20:58:05.849 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+20:58:15.202 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+20:58:16.898 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+20:58:20.614 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+20:58:21.972 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+20:58:24.657 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+20:58:34.930 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+20:58:35.675 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+20:58:44.590 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+20:59:01.983 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+20:59:17.900 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:59:19.726 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:00:11.330 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+21:01:03.628 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:01:05.457 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:01:12.435 ERROR Đã có lỗi xảy ra: msg is not defined. 
+21:01:16.614 ERROR Đã có lỗi xảy ra: msg is not defined. 
+21:01:17.123 ERROR Đã có lỗi xảy ra: msg is not defined. 
+21:01:18.865 ERROR Đã có lỗi xảy ra: msg is not defined. 
+21:01:21.013 ERROR Đã có lỗi xảy ra: msg is not defined. 
+21:01:24.685 ERROR Đã có lỗi xảy ra: msg is not defined. 
+21:04:09.785 ERROR Đã có lỗi xảy ra: msg is not defined. 
+21:04:11.443 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:04:13.173 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:04:17.125 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+21:04:18.391 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+21:04:39.665 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+21:11:56.280 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:11:58.554 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:12:13.437 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+21:13:52.740 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:13:54.480 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:13:57.889 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+21:14:19.418 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:14:21.193 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:14:25.607 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+21:15:21.559 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:15:23.421 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:15:46.401 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'msg'). 
+21:20:00.000 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:20:01.855 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:20:09.068 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'msg'). 
+21:20:09.556 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'msg'). 
+21:20:10.083 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'msg'). 
+21:20:10.506 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'msg'). 
+21:21:33.806 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:21:35.547 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:21:52.055 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+21:22:02.305 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:22:04.069 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:22:25.362 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+21:23:15.780 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:23:17.459 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:23:33.708 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+21:23:54.494 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:23:56.245 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:23:58.977 ERROR Đã có lỗi xảy ra: Request failed with status code 400. 
+21:27:34.003 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:27:36.539 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:30:32.551 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:30:34.250 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:31:45.021 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:31:46.787 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:33:50.740 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:33:52.520 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:43:05.767 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:43:07.462 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:22:13.624 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:22:16.421 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:23:58.937 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:24:00.716 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:25:23.738 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:25:25.556 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:45:19.602 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:45:21.897 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+

@@ -1,0 +1,900 @@
+07:14:20.050 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:14:53.729 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:27:57.869 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:28:12.257 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:28:29.104 ERROR Have an error: Request failed with status code 429. 
+08:28:42.495 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:28:44.918 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:30:25.912 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+08:51:36.767 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:51:38.771 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:55:52.746 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:55:55.949 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:56:08.657 ERROR Have an error: client.startTyping is not a function. 
+08:56:09.299 ERROR Have an error: Unknown Message. 
+08:56:10.740 ERROR Have an error: Unknown Message. 
+08:56:15.003 ERROR Have an error: Unknown Message. 
+08:56:50.052 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:56:52.003 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:57:02.788 ERROR Have an error: message.channel.startTyping is not a function. 
+08:57:39.753 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:57:41.484 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:58:01.019 ERROR Have an error: message.channel.startTyping is not a function. 
+08:58:29.851 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:58:32.597 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:59:05.044 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:59:06.795 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:59:43.925 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:59:45.610 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+09:01:09.276 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:01:11.782 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+09:01:25.675 ERROR Have an error: Unknown Message. 
+09:02:05.350 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:02:08.424 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+09:08:56.910 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:08:59.338 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+09:10:13.575 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:10:15.846 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:00:47.000 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:00:49.517 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:01:01.882 ERROR Have an error: Missing Access. 
+10:01:03.261 ERROR Have an error: Missing Access. 
+10:01:08.422 ERROR Have an error: Missing Access. 
+10:01:27.719 ERROR Have an error: Missing Access. 
+10:01:29.292 ERROR Have an error: Missing Access. 
+10:01:30.906 ERROR Have an error: Missing Access. 
+10:01:45.503 ERROR Have an error: Missing Access. 
+10:01:47.001 ERROR Have an error: Missing Access. 
+10:01:51.625 ERROR Have an error: Missing Access. 
+10:01:53.501 ERROR Have an error: Missing Access. 
+10:02:11.842 ERROR Have an error: Missing Access. 
+10:02:14.608 ERROR Have an error: Missing Access. 
+10:02:19.688 ERROR Have an error: Missing Access. 
+10:02:21.562 ERROR Have an error: Missing Access. 
+10:02:21.909 ERROR Have an error: Missing Access. 
+10:02:23.600 ERROR Have an error: Missing Access. 
+10:02:23.923 ERROR Have an error: Missing Access. 
+10:02:24.268 ERROR Have an error: Missing Access. 
+10:02:25.504 ERROR Have an error: Missing Access. 
+10:02:25.809 ERROR Have an error: Missing Access. 
+10:02:35.581 ERROR Have an error: Missing Access. 
+10:02:35.897 ERROR Have an error: Missing Access. 
+10:02:45.108 ERROR Have an error: Missing Access. 
+10:02:45.413 ERROR Have an error: Missing Access. 
+10:02:52.106 ERROR Have an error: Missing Access. 
+10:02:52.730 ERROR Have an error: Missing Access. 
+10:02:53.638 ERROR Have an error: Missing Access. 
+10:02:53.939 ERROR Have an error: Missing Access. 
+10:02:57.530 ERROR Have an error: Missing Access. 
+10:02:57.835 ERROR Have an error: Missing Access. 
+10:02:58.230 ERROR Have an error: Missing Access. 
+10:02:58.529 ERROR Have an error: Missing Access. 
+10:02:59.241 ERROR Have an error: Missing Access. 
+10:02:59.583 ERROR Have an error: Missing Access. 
+10:03:01.410 ERROR Have an error: Missing Access. 
+10:03:01.717 ERROR Have an error: Missing Access. 
+10:03:02.893 ERROR Have an error: Missing Access. 
+10:03:03.231 ERROR Have an error: Missing Access. 
+10:03:03.425 ERROR Have an error: Missing Access. 
+10:03:03.727 ERROR Have an error: Missing Access. 
+10:03:07.130 ERROR Have an error: Missing Access. 
+10:03:07.445 ERROR Have an error: Missing Access. 
+10:03:08.183 ERROR Have an error: Missing Access. 
+10:03:08.513 ERROR Have an error: Missing Access. 
+10:04:04.283 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:04:06.640 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:04:29.256 ERROR Have an error: Missing Access. 
+10:04:32.546 ERROR Have an error: Missing Access. 
+10:04:53.506 ERROR Have an error: Missing Access. 
+10:04:56.715 ERROR Have an error: Missing Access. 
+10:04:58.526 ERROR Have an error: Missing Access. 
+10:04:58.587 ERROR Have an error: Missing Access. 
+10:05:00.273 ERROR Have an error: Missing Access. 
+10:05:00.303 ERROR Have an error: Missing Access. 
+10:05:01.768 ERROR Have an error: Missing Access. 
+10:05:03.442 ERROR Have an error: Missing Access. 
+10:05:06.190 ERROR Have an error: Missing Access. 
+10:05:06.212 ERROR Have an error: Missing Access. 
+10:05:07.769 ERROR Have an error: Missing Access. 
+10:05:09.412 ERROR Have an error: Missing Access. 
+10:05:09.416 ERROR Have an error: Missing Access. 
+10:05:09.732 ERROR Have an error: Missing Access. 
+10:05:09.735 ERROR Have an error: Missing Access. 
+10:05:11.500 ERROR Have an error: Missing Access. 
+10:05:11.511 ERROR Have an error: Missing Access. 
+10:05:11.808 ERROR Have an error: Missing Access. 
+10:05:11.846 ERROR Have an error: Missing Access. 
+10:05:13.451 ERROR Have an error: Missing Access. 
+10:05:13.510 ERROR Have an error: Missing Access. 
+10:05:15.345 ERROR Have an error: Missing Access. 
+10:05:16.962 ERROR Have an error: Missing Access. 
+10:05:16.996 ERROR Have an error: Missing Access. 
+10:05:18.581 ERROR Have an error: Missing Access. 
+10:05:20.259 ERROR Have an error: Missing Access. 
+10:05:21.994 ERROR Have an error: Missing Access. 
+10:05:22.002 ERROR Have an error: Missing Access. 
+10:05:25.259 ERROR Have an error: Missing Access. 
+10:05:25.275 ERROR Have an error: Missing Access. 
+10:05:26.859 ERROR Have an error: Missing Access. 
+10:05:26.866 ERROR Have an error: Missing Access. 
+10:05:28.512 ERROR Have an error: Missing Access. 
+10:05:28.633 ERROR Have an error: Missing Access. 
+10:05:30.254 ERROR Have an error: Missing Access. 
+10:05:30.271 ERROR Have an error: Missing Access. 
+10:05:30.560 ERROR Have an error: Missing Access. 
+10:05:30.564 ERROR Have an error: Missing Access. 
+10:05:30.850 ERROR Have an error: Missing Access. 
+10:05:30.867 ERROR Have an error: Missing Access. 
+10:05:31.137 ERROR Have an error: Missing Access. 
+10:05:31.227 ERROR Have an error: Missing Access. 
+10:05:31.455 ERROR Have an error: Missing Access. 
+10:05:31.540 ERROR Have an error: Missing Access. 
+10:05:31.750 ERROR Have an error: Missing Access. 
+10:05:31.884 ERROR Have an error: Missing Access. 
+10:05:32.033 ERROR Have an error: Missing Access. 
+10:05:32.212 ERROR Have an error: Missing Access. 
+10:05:32.365 ERROR Have an error: Missing Access. 
+10:05:32.510 ERROR Have an error: Missing Access. 
+10:05:32.655 ERROR Have an error: Missing Access. 
+10:05:34.410 ERROR Have an error: Missing Access. 
+10:05:34.415 ERROR Have an error: Missing Access. 
+10:06:54.677 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:06:57.185 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:07:13.395 ERROR Have an error: Missing Access. 
+10:07:13.416 ERROR Have an error: Missing Access. 
+10:07:17.695 ERROR Have an error: Missing Access. 
+10:07:19.129 ERROR Have an error: Missing Access. 
+10:07:20.488 ERROR Have an error: Missing Access. 
+10:07:22.108 ERROR Have an error: Missing Access. 
+10:07:22.118 ERROR Have an error: Missing Access. 
+10:07:22.417 ERROR Have an error: Missing Access. 
+10:07:22.469 ERROR Have an error: Missing Access. 
+10:07:22.771 ERROR Have an error: Missing Access. 
+10:07:24.358 ERROR Have an error: Missing Access. 
+10:07:24.654 ERROR Have an error: Missing Access. 
+10:07:25.004 ERROR Have an error: Missing Access. 
+10:07:25.297 ERROR Have an error: Missing Access. 
+10:07:25.588 ERROR Have an error: Missing Access. 
+10:07:25.915 ERROR Have an error: Missing Access. 
+10:07:30.571 ERROR Have an error: Missing Access. 
+10:07:32.316 ERROR Have an error: Missing Access. 
+10:07:34.095 ERROR Have an error: Missing Access. 
+10:07:34.110 ERROR Have an error: Missing Access. 
+10:07:46.369 ERROR Have an error: Missing Access. 
+10:07:46.733 ERROR Have an error: Missing Access. 
+10:07:52.185 ERROR Have an error: Missing Access. 
+10:07:53.591 ERROR Have an error: Missing Access. 
+10:07:55.196 ERROR Have an error: Missing Access. 
+10:07:56.614 ERROR Have an error: Missing Access. 
+10:08:01.542 ERROR Have an error: Missing Access. 
+10:08:01.888 ERROR Have an error: Missing Access. 
+10:08:04.114 ERROR Have an error: Missing Access. 
+10:08:04.494 ERROR Have an error: Missing Access. 
+10:08:09.470 ERROR Have an error: Missing Access. 
+10:08:09.482 ERROR Have an error: Missing Access. 
+10:08:11.096 ERROR Have an error: Missing Access. 
+10:08:11.143 ERROR Have an error: Missing Access. 
+10:08:17.719 ERROR Have an error: Missing Access. 
+10:08:19.294 ERROR Have an error: Missing Access. 
+10:08:20.722 ERROR Have an error: Missing Access. 
+10:08:22.439 ERROR Have an error: Missing Access. 
+10:08:22.802 ERROR Have an error: Missing Access. 
+10:08:24.455 ERROR Have an error: Missing Access. 
+10:08:24.788 ERROR Have an error: Missing Access. 
+10:08:26.764 ERROR Have an error: Missing Access. 
+10:08:27.092 ERROR Have an error: Missing Access. 
+10:08:27.408 ERROR Have an error: Missing Access. 
+10:08:27.707 ERROR Have an error: Missing Access. 
+10:08:28.023 ERROR Have an error: Missing Access. 
+10:08:29.106 ERROR Have an error: Missing Access. 
+10:08:29.152 ERROR Have an error: Missing Access. 
+10:08:29.458 ERROR Have an error: Missing Access. 
+10:08:29.470 ERROR Have an error: Missing Access. 
+10:08:29.791 ERROR Have an error: Missing Access. 
+10:08:30.099 ERROR Have an error: Missing Access. 
+10:08:30.998 ERROR Have an error: Missing Access. 
+10:08:31.301 ERROR Have an error: Missing Access. 
+10:08:33.131 ERROR Have an error: Missing Access. 
+10:08:33.142 ERROR Have an error: Missing Access. 
+10:08:33.434 ERROR Have an error: Missing Access. 
+10:08:33.503 ERROR Have an error: Missing Access. 
+10:08:35.266 ERROR Have an error: Missing Access. 
+10:08:35.280 ERROR Have an error: Missing Access. 
+10:08:35.558 ERROR Have an error: Missing Access. 
+10:08:35.703 ERROR Have an error: Missing Access. 
+10:08:37.163 ERROR Have an error: Missing Access. 
+10:08:37.611 ERROR Have an error: Missing Access. 
+10:08:45.143 ERROR Have an error: Missing Access. 
+10:08:45.512 ERROR Have an error: Missing Access. 
+10:08:45.701 ERROR Have an error: Missing Access. 
+10:08:46.337 ERROR Have an error: Missing Access. 
+10:08:46.981 ERROR Have an error: Missing Access. 
+10:08:47.286 ERROR Have an error: Missing Access. 
+10:08:48.182 ERROR Have an error: Missing Access. 
+10:08:48.537 ERROR Have an error: Missing Access. 
+10:08:51.270 ERROR Have an error: Missing Access. 
+10:08:51.597 ERROR Have an error: Missing Access. 
+10:08:51.909 ERROR Have an error: Missing Access. 
+10:08:52.238 ERROR Have an error: Missing Access. 
+10:08:53.061 ERROR Have an error: Missing Access. 
+10:08:53.439 ERROR Have an error: Missing Access. 
+10:08:55.294 ERROR Have an error: Missing Access. 
+10:08:55.640 ERROR Have an error: Missing Access. 
+10:08:57.858 ERROR Have an error: Missing Access. 
+10:08:58.254 ERROR Have an error: Missing Access. 
+10:09:07.698 ERROR Have an error: Missing Access. 
+10:09:08.001 ERROR Have an error: Missing Access. 
+10:09:15.120 ERROR Have an error: Missing Access. 
+10:09:15.422 ERROR Have an error: Missing Access. 
+10:09:15.690 ERROR Have an error: Missing Access. 
+10:09:16.013 ERROR Have an error: Missing Access. 
+10:09:17.159 ERROR Have an error: Missing Access. 
+10:09:17.479 ERROR Have an error: Missing Access. 
+10:09:21.752 ERROR Have an error: Missing Access. 
+10:09:22.051 ERROR Have an error: Missing Access. 
+10:09:25.959 ERROR Have an error: Missing Access. 
+10:09:26.275 ERROR Have an error: Missing Access. 
+10:09:27.282 ERROR Have an error: Missing Access. 
+10:09:27.642 ERROR Have an error: Missing Access. 
+10:09:30.538 ERROR Have an error: Missing Access. 
+10:09:31.000 ERROR Have an error: Missing Access. 
+10:09:31.301 ERROR Have an error: Missing Access. 
+10:09:31.356 ERROR Have an error: Missing Access. 
+10:09:31.622 ERROR Have an error: Missing Access. 
+10:09:31.645 ERROR Have an error: Missing Access. 
+10:09:31.947 ERROR Have an error: Missing Access. 
+10:09:32.215 ERROR Have an error: Missing Access. 
+10:09:32.275 ERROR Have an error: Missing Access. 
+10:09:32.529 ERROR Have an error: Missing Access. 
+10:09:35.564 ERROR Have an error: Missing Access. 
+10:09:35.870 ERROR Have an error: Missing Access. 
+10:09:37.696 ERROR Have an error: Missing Access. 
+10:09:38.127 ERROR Have an error: Missing Access. 
+10:09:41.672 ERROR Have an error: Missing Access. 
+10:09:42.020 ERROR Have an error: Missing Access. 
+10:09:43.755 ERROR Have an error: Missing Access. 
+10:09:44.063 ERROR Have an error: Missing Access. 
+10:09:44.080 ERROR Have an error: Missing Access. 
+10:09:44.414 ERROR Have an error: Missing Access. 
+10:09:50.545 ERROR Have an error: Missing Access. 
+10:09:50.844 ERROR Have an error: Missing Access. 
+10:09:53.396 ERROR Have an error: Missing Access. 
+10:09:53.699 ERROR Have an error: Missing Access. 
+10:09:55.581 ERROR Have an error: Missing Access. 
+10:09:55.985 ERROR Have an error: Missing Access. 
+10:09:56.430 ERROR Have an error: Missing Access. 
+10:09:56.731 ERROR Have an error: Missing Access. 
+10:09:57.318 ERROR Have an error: Missing Access. 
+10:09:57.659 ERROR Have an error: Missing Access. 
+10:09:58.463 ERROR Have an error: Missing Access. 
+10:09:58.769 ERROR Have an error: Missing Access. 
+10:10:00.164 ERROR Have an error: Missing Access. 
+10:10:00.542 ERROR Have an error: Missing Access. 
+10:10:02.559 ERROR Have an error: Missing Access. 
+10:10:02.865 ERROR Have an error: Missing Access. 
+10:10:03.196 ERROR Have an error: Missing Access. 
+10:10:03.563 ERROR Have an error: Missing Access. 
+10:10:03.874 ERROR Have an error: Missing Access. 
+10:10:04.184 ERROR Have an error: Missing Access. 
+10:10:09.280 ERROR Have an error: Missing Access. 
+10:10:09.573 ERROR Have an error: Missing Access. 
+10:10:11.409 ERROR Have an error: Missing Access. 
+10:10:11.726 ERROR Have an error: Missing Access. 
+10:10:12.060 ERROR Have an error: Missing Access. 
+10:10:12.402 ERROR Have an error: Missing Access. 
+10:10:13.446 ERROR Have an error: Missing Access. 
+10:10:13.779 ERROR Have an error: Missing Access. 
+10:10:14.087 ERROR Have an error: Missing Access. 
+10:10:14.387 ERROR Have an error: Missing Access. 
+10:10:15.329 ERROR Have an error: Missing Access. 
+10:10:15.650 ERROR Have an error: Missing Access. 
+10:10:16.347 ERROR Have an error: Missing Access. 
+10:10:16.704 ERROR Have an error: Missing Access. 
+10:10:22.117 ERROR Have an error: Missing Access. 
+10:10:22.453 ERROR Have an error: Missing Access. 
+10:10:22.753 ERROR Have an error: Missing Access. 
+10:10:23.086 ERROR Have an error: Missing Access. 
+10:10:23.231 ERROR Have an error: Missing Access. 
+10:10:23.845 ERROR Have an error: Missing Access. 
+10:10:27.171 ERROR Have an error: Missing Access. 
+10:10:27.463 ERROR Have an error: Missing Access. 
+10:10:28.024 ERROR Have an error: Missing Access. 
+10:10:28.367 ERROR Have an error: Missing Access. 
+10:10:28.372 ERROR Have an error: Missing Access. 
+10:10:28.687 ERROR Have an error: Missing Access. 
+10:10:29.404 ERROR Have an error: Missing Access. 
+10:10:29.913 ERROR Have an error: Missing Access. 
+10:10:37.418 ERROR Have an error: Missing Access. 
+10:10:37.750 ERROR Have an error: Missing Access. 
+10:10:39.640 ERROR Have an error: Missing Access. 
+10:10:39.949 ERROR Have an error: Missing Access. 
+10:10:41.754 ERROR Have an error: Missing Access. 
+10:10:42.056 ERROR Have an error: Missing Access. 
+10:10:42.349 ERROR Have an error: Missing Access. 
+10:10:42.709 ERROR Have an error: Missing Access. 
+10:10:47.450 ERROR Have an error: Missing Access. 
+10:10:47.885 ERROR Have an error: Missing Access. 
+10:10:51.659 ERROR Have an error: Missing Access. 
+10:10:52.131 ERROR Have an error: Missing Access. 
+10:10:53.477 ERROR Have an error: Missing Access. 
+10:10:53.807 ERROR Have an error: Missing Access. 
+10:10:54.148 ERROR Have an error: Missing Access. 
+10:10:54.483 ERROR Have an error: Missing Access. 
+10:10:56.533 ERROR Have an error: Missing Access. 
+10:10:56.890 ERROR Have an error: Missing Access. 
+10:10:57.404 ERROR Have an error: Missing Access. 
+10:10:57.726 ERROR Have an error: Missing Access. 
+10:10:59.951 ERROR Have an error: Missing Access. 
+10:11:00.260 ERROR Have an error: Missing Access. 
+10:11:01.414 ERROR Have an error: Missing Access. 
+10:11:01.756 ERROR Have an error: Missing Access. 
+10:11:02.680 ERROR Have an error: Missing Access. 
+10:11:03.153 ERROR Have an error: Missing Access. 
+10:11:05.329 ERROR Have an error: Missing Access. 
+10:11:05.630 ERROR Have an error: Missing Access. 
+10:11:06.599 ERROR Have an error: Missing Access. 
+10:11:06.903 ERROR Have an error: Missing Access. 
+10:11:07.490 ERROR Have an error: Missing Access. 
+10:11:07.814 ERROR Have an error: Missing Access. 
+10:11:08.574 ERROR Have an error: Missing Access. 
+10:11:08.867 ERROR Have an error: Missing Access. 
+10:11:11.371 ERROR Have an error: Missing Access. 
+10:11:11.658 ERROR Have an error: Missing Access. 
+10:11:13.501 ERROR Have an error: Missing Access. 
+10:11:13.794 ERROR Have an error: Missing Access. 
+10:11:15.316 ERROR Have an error: Missing Access. 
+10:11:15.651 ERROR Have an error: Missing Access. 
+10:11:15.964 ERROR Have an error: Missing Access. 
+10:11:16.267 ERROR Have an error: Missing Access. 
+10:11:16.596 ERROR Have an error: Missing Access. 
+10:11:16.890 ERROR Have an error: Missing Access. 
+10:11:18.210 ERROR Have an error: Missing Access. 
+10:11:18.500 ERROR Have an error: Missing Access. 
+10:11:23.483 ERROR Have an error: Missing Access. 
+10:11:23.858 ERROR Have an error: Missing Access. 
+10:11:27.539 ERROR Have an error: Missing Access. 
+10:11:27.855 ERROR Have an error: Missing Access. 
+10:11:30.992 ERROR Have an error: Missing Access. 
+10:11:31.301 ERROR Have an error: Missing Access. 
+10:11:31.712 ERROR Have an error: Missing Access. 
+10:11:32.046 ERROR Have an error: Missing Access. 
+10:11:33.374 ERROR Have an error: Missing Access. 
+10:11:33.669 ERROR Have an error: Missing Access. 
+10:11:35.476 ERROR Have an error: Missing Access. 
+10:11:35.769 ERROR Have an error: Missing Access. 
+10:11:35.806 ERROR Have an error: Missing Access. 
+10:11:36.114 ERROR Have an error: Missing Access. 
+10:11:36.120 ERROR Have an error: Missing Access. 
+10:11:36.420 ERROR Have an error: Missing Access. 
+10:11:36.688 ERROR Have an error: Missing Access. 
+10:11:36.990 ERROR Have an error: Missing Access. 
+10:11:40.379 ERROR Have an error: Missing Access. 
+10:11:40.687 ERROR Have an error: Missing Access. 
+10:11:42.617 ERROR Have an error: Missing Access. 
+10:11:43.448 ERROR Have an error: Missing Access. 
+10:11:45.608 ERROR Have an error: Missing Access. 
+10:11:45.886 ERROR Have an error: Missing Access. 
+10:11:45.911 ERROR Have an error: Missing Access. 
+10:11:46.242 ERROR Have an error: Missing Access. 
+10:11:50.538 ERROR Have an error: Missing Access. 
+10:11:50.923 ERROR Have an error: Missing Access. 
+10:11:51.522 ERROR Have an error: Missing Access. 
+10:11:51.866 ERROR Have an error: Missing Access. 
+10:11:51.895 ERROR Have an error: Missing Access. 
+10:11:52.439 ERROR Have an error: Missing Access. 
+10:11:54.513 ERROR Have an error: Missing Access. 
+10:11:54.809 ERROR Have an error: Missing Access. 
+10:11:55.121 ERROR Have an error: Missing Access. 
+10:11:55.412 ERROR Have an error: Missing Access. 
+10:12:03.527 ERROR Have an error: Missing Access. 
+10:12:03.827 ERROR Have an error: Missing Access. 
+10:12:03.869 ERROR Have an error: Missing Access. 
+10:12:07.635 ERROR Have an error: Missing Access. 
+10:12:07.642 ERROR Have an error: Missing Access. 
+10:12:07.948 ERROR Have an error: Missing Access. 
+10:12:11.653 ERROR Have an error: Missing Access. 
+10:12:11.660 ERROR Have an error: Missing Access. 
+10:12:11.965 ERROR Have an error: Missing Access. 
+10:12:14.722 ERROR Have an error: Missing Access. 
+10:12:15.050 ERROR Have an error: Missing Access. 
+10:12:18.823 ERROR Have an error: Missing Access. 
+10:12:23.213 ERROR Have an error: Missing Access. 
+10:12:28.229 ERROR Have an error: Missing Access. 
+10:12:35.344 ERROR Have an error: Missing Access. 
+10:12:35.349 ERROR Have an error: Missing Access. 
+10:12:39.241 ERROR Have an error: Missing Access. 
+10:12:39.246 ERROR Have an error: Missing Access. 
+10:12:39.598 ERROR Have an error: Missing Access. 
+10:12:39.628 ERROR Have an error: Missing Access. 
+10:12:39.893 ERROR Have an error: Missing Access. 
+10:12:39.916 ERROR Have an error: Missing Access. 
+10:12:41.763 ERROR Have an error: Missing Access. 
+10:12:42.075 ERROR Have an error: Missing Access. 
+10:12:42.628 ERROR Have an error: Missing Access. 
+10:12:42.918 ERROR Have an error: Missing Access. 
+10:12:45.526 ERROR Have an error: Missing Access. 
+10:12:45.834 ERROR Have an error: Missing Access. 
+10:12:47.058 ERROR Have an error: Missing Access. 
+10:12:47.368 ERROR Have an error: Missing Access. 
+10:12:56.454 ERROR Have an error: Missing Access. 
+10:12:56.474 ERROR Have an error: Missing Access. 
+10:12:56.780 ERROR Have an error: Missing Access. 
+10:12:56.812 ERROR Have an error: Missing Access. 
+10:12:58.676 ERROR Have an error: Missing Access. 
+10:12:59.070 ERROR Have an error: Missing Access. 
+10:13:00.989 ERROR Have an error: Missing Access. 
+10:13:01.304 ERROR Have an error: Missing Access. 
+10:13:04.661 ERROR Have an error: Missing Access. 
+10:13:05.000 ERROR Have an error: Missing Access. 
+10:13:09.010 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+10:13:12.375 ERROR Have an error: Missing Access. 
+10:13:12.661 ERROR Have an error: Missing Access. 
+10:13:13.207 ERROR Have an error: Missing Access. 
+10:13:13.522 ERROR Have an error: Missing Access. 
+10:13:20.456 ERROR Have an error: Missing Access. 
+10:13:20.748 ERROR Have an error: Missing Access. 
+10:13:24.716 ERROR Have an error: Missing Access. 
+10:13:25.127 ERROR Have an error: Missing Access. 
+10:13:25.452 ERROR Have an error: Missing Access. 
+10:13:25.737 ERROR Have an error: Missing Access. 
+10:13:28.672 ERROR Have an error: Missing Access. 
+10:13:28.887 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+10:13:29.002 ERROR Have an error: Missing Access. 
+10:13:34.429 ERROR Have an error: Missing Access. 
+10:13:34.480 ERROR Have an error: Missing Access. 
+10:13:34.757 ERROR Have an error: Missing Access. 
+10:13:34.778 ERROR Have an error: Missing Access. 
+10:13:45.757 ERROR Have an error: Missing Access. 
+10:13:46.067 ERROR Have an error: Missing Access. 
+10:13:46.507 ERROR Have an error: Missing Access. 
+10:13:46.822 ERROR Have an error: Missing Access. 
+10:13:47.242 ERROR Have an error: Missing Access. 
+10:13:47.569 ERROR Have an error: Missing Access. 
+10:13:49.579 ERROR Have an error: Missing Access. 
+10:13:49.939 ERROR Have an error: Missing Access. 
+10:13:50.546 ERROR Have an error: Missing Access. 
+10:13:50.866 ERROR Have an error: Missing Access. 
+10:13:52.408 ERROR Have an error: Missing Access. 
+10:13:52.734 ERROR Have an error: Missing Access. 
+10:13:53.836 ERROR Have an error: Missing Access. 
+10:13:54.160 ERROR Have an error: Missing Access. 
+10:14:01.757 ERROR Have an error: Missing Access. 
+10:14:02.047 ERROR Have an error: Missing Access. 
+10:14:02.695 ERROR Have an error: Missing Access. 
+10:14:03.044 ERROR Have an error: Missing Access. 
+10:14:05.925 ERROR Have an error: Missing Access. 
+10:14:06.448 ERROR Have an error: Missing Access. 
+10:14:10.718 ERROR Have an error: Missing Access. 
+10:14:10.749 ERROR Have an error: Missing Access. 
+10:14:10.984 ERROR Have an error: Missing Access. 
+10:14:11.263 ERROR Have an error: Missing Access. 
+10:14:11.266 ERROR Have an error: Missing Access. 
+10:14:11.271 ERROR Have an error: Missing Access. 
+10:14:11.580 ERROR Have an error: Missing Access. 
+10:14:12.272 ERROR Have an error: Missing Access. 
+10:14:12.366 ERROR Have an error: Missing Access. 
+10:14:12.710 ERROR Have an error: Missing Access. 
+10:14:12.715 ERROR Have an error: Missing Access. 
+10:14:13.159 ERROR Have an error: Missing Access. 
+10:14:18.960 ERROR Have an error: Missing Access. 
+10:14:19.162 ERROR Have an error: Missing Access. 
+10:14:19.388 ERROR Have an error: Missing Access. 
+10:14:19.458 ERROR Have an error: Missing Access. 
+10:14:21.869 ERROR Have an error: Missing Access. 
+10:14:22.329 ERROR Have an error: Missing Access. 
+10:14:24.619 ERROR Have an error: Missing Access. 
+10:14:24.918 ERROR Have an error: Missing Access. 
+10:14:26.643 ERROR Have an error: Missing Access. 
+10:14:26.943 ERROR Have an error: Missing Access. 
+10:14:27.728 ERROR Have an error: Missing Access. 
+10:14:28.015 ERROR Have an error: Missing Access. 
+10:14:31.398 ERROR Have an error: Missing Access. 
+10:14:31.701 ERROR Have an error: Missing Access. 
+10:14:34.556 ERROR Have an error: Missing Access. 
+10:14:34.844 ERROR Have an error: Missing Access. 
+10:14:40.819 ERROR Have an error: Missing Access. 
+10:14:41.116 ERROR Have an error: Missing Access. 
+10:14:44.521 ERROR Have an error: Missing Access. 
+10:14:44.834 ERROR Have an error: Missing Access. 
+10:14:45.159 ERROR Have an error: Missing Access. 
+10:14:45.472 ERROR Have an error: Missing Access. 
+10:15:01.377 ERROR Have an error: Missing Access. 
+10:15:01.756 ERROR Have an error: Missing Access. 
+10:15:02.046 ERROR Have an error: Missing Access. 
+10:15:02.376 ERROR Have an error: Missing Access. 
+10:15:11.409 ERROR Have an error: Missing Access. 
+10:15:11.785 ERROR Have an error: Missing Access. 
+10:15:16.863 ERROR Have an error: Missing Access. 
+10:15:17.154 ERROR Have an error: Missing Access. 
+10:15:20.069 ERROR Have an error: Missing Access. 
+10:15:20.418 ERROR Have an error: Missing Access. 
+10:15:28.645 ERROR Have an error: Missing Access. 
+10:15:28.900 ERROR Have an error: Missing Access. 
+10:15:28.946 ERROR Have an error: Missing Access. 
+10:15:29.216 ERROR Have an error: Missing Access. 
+10:15:32.604 ERROR Have an error: Missing Access. 
+10:15:32.815 ERROR Have an error: Missing Access. 
+10:15:32.917 ERROR Have an error: Missing Access. 
+10:15:33.141 ERROR Have an error: Missing Access. 
+10:15:37.107 ERROR Have an error: Missing Access. 
+10:15:37.419 ERROR Have an error: Missing Access. 
+10:15:37.713 ERROR Have an error: Missing Access. 
+10:15:38.063 ERROR Have an error: Missing Access. 
+10:15:48.061 ERROR Have an error: Missing Access. 
+10:15:48.380 ERROR Have an error: Missing Access. 
+10:15:52.013 ERROR Have an error: Missing Access. 
+10:15:52.312 ERROR Have an error: Missing Access. 
+10:15:55.281 ERROR Have an error: Missing Access. 
+10:15:55.598 ERROR Have an error: Missing Access. 
+10:15:56.882 ERROR Have an error: Missing Access. 
+10:15:57.237 ERROR Have an error: Missing Access. 
+10:16:00.107 ERROR Have an error: Missing Access. 
+10:16:00.395 ERROR Have an error: Missing Access. 
+10:16:02.978 ERROR Have an error: Missing Access. 
+10:16:03.315 ERROR Have an error: Missing Access. 
+10:16:12.173 ERROR Have an error: Missing Access. 
+10:16:12.523 ERROR Have an error: Missing Access. 
+10:16:14.761 ERROR Have an error: Missing Access. 
+10:16:15.075 ERROR Have an error: Missing Access. 
+10:16:36.161 ERROR Have an error: Missing Access. 
+10:16:36.499 ERROR Have an error: Missing Access. 
+10:16:48.956 ERROR Have an error: Missing Access. 
+10:16:49.294 ERROR Have an error: Missing Access. 
+10:16:51.113 ERROR Have an error: Missing Access. 
+10:16:51.422 ERROR Have an error: Missing Access. 
+10:16:57.045 ERROR Have an error: Missing Access. 
+10:16:57.341 ERROR Have an error: Missing Access. 
+10:16:58.961 ERROR Have an error: Missing Access. 
+10:16:59.251 ERROR Have an error: Missing Access. 
+10:16:59.966 ERROR Have an error: Missing Access. 
+10:17:00.259 ERROR Have an error: Missing Access. 
+10:17:00.995 ERROR Have an error: Missing Access. 
+10:17:01.289 ERROR Have an error: Missing Access. 
+10:17:01.442 ERROR Have an error: Missing Access. 
+10:17:01.728 ERROR Have an error: Missing Access. 
+10:17:02.226 ERROR Have an error: Missing Access. 
+10:17:02.542 ERROR Have an error: Missing Access. 
+10:17:09.665 ERROR Have an error: Missing Access. 
+10:17:10.019 ERROR Have an error: Missing Access. 
+10:17:10.321 ERROR Have an error: Missing Access. 
+10:17:10.679 ERROR Have an error: Missing Access. 
+10:17:14.818 ERROR Have an error: Missing Access. 
+10:17:14.833 ERROR Have an error: Missing Access. 
+10:17:15.116 ERROR Have an error: Missing Access. 
+10:17:15.174 ERROR Have an error: Missing Access. 
+10:17:22.925 ERROR Have an error: Missing Access. 
+10:17:23.229 ERROR Have an error: Missing Access. 
+10:17:29.109 ERROR Have an error: Missing Access. 
+10:17:29.394 ERROR Have an error: Missing Access. 
+10:17:30.316 ERROR Have an error: Missing Access. 
+10:17:30.615 ERROR Have an error: Missing Access. 
+10:17:30.912 ERROR Have an error: Missing Access. 
+10:17:31.240 ERROR Have an error: Missing Access. 
+10:17:38.961 ERROR Have an error: Missing Access. 
+10:17:39.304 ERROR Have an error: Missing Access. 
+10:17:42.032 ERROR Have an error: Missing Access. 
+10:17:42.371 ERROR Have an error: Missing Access. 
+10:17:42.954 ERROR Have an error: Missing Access. 
+10:17:43.275 ERROR Have an error: Missing Access. 
+10:17:45.731 ERROR Have an error: Missing Access. 
+10:17:46.108 ERROR Have an error: Missing Access. 
+10:17:46.979 ERROR Have an error: Missing Access. 
+10:17:47.273 ERROR Have an error: Missing Access. 
+10:17:48.261 ERROR Have an error: Missing Access. 
+10:17:48.584 ERROR Have an error: Missing Access. 
+10:17:53.879 ERROR Have an error: Missing Access. 
+10:17:54.178 ERROR Have an error: Missing Access. 
+10:17:57.916 ERROR Have an error: Missing Access. 
+10:17:58.212 ERROR Have an error: Missing Access. 
+10:17:59.031 ERROR Have an error: Missing Access. 
+10:17:59.323 ERROR Have an error: Missing Access. 
+10:18:04.124 ERROR Have an error: Missing Access. 
+10:18:04.619 ERROR Have an error: Missing Access. 
+10:18:07.193 ERROR Have an error: Missing Access. 
+10:18:07.482 ERROR Have an error: Missing Access. 
+10:18:11.628 ERROR Have an error: Missing Access. 
+10:18:11.946 ERROR Have an error: Missing Access. 
+10:18:12.253 ERROR Have an error: Missing Access. 
+10:18:12.569 ERROR Have an error: Missing Access. 
+10:18:17.276 ERROR Have an error: Missing Access. 
+10:18:17.580 ERROR Have an error: Missing Access. 
+10:18:19.521 ERROR Have an error: Missing Access. 
+10:18:19.805 ERROR Have an error: Missing Access. 
+10:18:29.110 ERROR Have an error: Missing Access. 
+10:18:29.409 ERROR Have an error: Missing Access. 
+10:18:34.012 ERROR Have an error: Missing Access. 
+10:18:34.298 ERROR Have an error: Missing Access. 
+10:18:39.590 ERROR Have an error: Missing Access. 
+10:18:39.883 ERROR Have an error: Missing Access. 
+10:18:45.438 ERROR Have an error: Missing Access. 
+10:18:45.764 ERROR Have an error: Missing Access. 
+10:19:01.028 ERROR Have an error: Missing Access. 
+10:19:01.336 ERROR Have an error: Missing Access. 
+10:19:03.152 ERROR Have an error: Missing Access. 
+10:19:03.481 ERROR Have an error: Missing Access. 
+10:19:06.286 ERROR Have an error: Missing Access. 
+10:19:06.581 ERROR Have an error: Missing Access. 
+10:19:07.694 ERROR Have an error: Missing Access. 
+10:19:08.010 ERROR Have an error: Missing Access. 
+10:19:10.461 ERROR Have an error: Missing Access. 
+10:19:10.750 ERROR Have an error: Missing Access. 
+10:19:14.442 ERROR Have an error: Missing Access. 
+10:19:14.735 ERROR Have an error: Missing Access. 
+10:19:17.227 ERROR Have an error: Missing Access. 
+10:19:17.514 ERROR Have an error: Missing Access. 
+10:20:04.548 ERROR Have an error: request to https://discord.com/api/v9/channels/870194248597798996/typing failed, reason: write ECONNABORTED. 
+10:20:04.550 ERROR Have an error: request to https://discord.com/api/v9/channels/870194248597798996/typing failed, reason: write ECONNABORTED. 
+10:22:13.253 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:22:14.863 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:22:29.356 ERROR Have an error: Missing Access. 
+10:22:31.044 ERROR Have an error: Missing Access. 
+10:22:31.060 ERROR Have an error: Missing Access. 
+10:22:33.872 ERROR Have an error: Missing Access. 
+10:22:35.242 ERROR Have an error: Missing Access. 
+10:22:35.251 ERROR Have an error: Missing Access. 
+10:22:36.609 ERROR Have an error: Missing Access. 
+10:22:36.629 ERROR Have an error: Missing Access. 
+10:22:38.042 ERROR Have an error: Missing Access. 
+10:22:41.252 ERROR Have an error: Missing Access. 
+10:22:41.290 ERROR Have an error: Missing Access. 
+10:22:42.889 ERROR Have an error: Missing Access. 
+10:22:42.892 ERROR Have an error: Missing Access. 
+10:22:43.191 ERROR Have an error: Missing Access. 
+10:22:44.999 ERROR Have an error: Missing Access. 
+10:22:45.297 ERROR Have an error: Missing Access. 
+10:22:45.618 ERROR Have an error: Missing Access. 
+10:22:45.925 ERROR Have an error: Missing Access. 
+10:22:46.214 ERROR Have an error: Missing Access. 
+10:22:46.524 ERROR Have an error: Missing Access. 
+10:22:46.840 ERROR Have an error: Missing Access. 
+10:22:47.142 ERROR Have an error: Missing Access. 
+10:22:47.482 ERROR Have an error: Missing Access. 
+10:22:47.777 ERROR Have an error: Missing Access. 
+10:22:48.086 ERROR Have an error: Missing Access. 
+10:22:48.409 ERROR Have an error: Missing Access. 
+10:22:50.135 ERROR Have an error: Missing Access. 
+10:22:53.328 ERROR Have an error: Missing Access. 
+10:22:55.008 ERROR Have an error: Missing Access. 
+10:22:56.575 ERROR Have an error: Missing Access. 
+10:22:58.324 ERROR Have an error: Missing Access. 
+10:23:01.172 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:23:02.914 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:23:16.318 ERROR Have an error: Missing Access. 
+10:23:17.679 ERROR Have an error: Missing Access. 
+10:23:17.773 ERROR Have an error: Missing Access. 
+10:23:19.120 ERROR Have an error: Missing Access. 
+10:23:22.030 ERROR Have an error: Missing Access. 
+10:23:22.058 ERROR Have an error: Missing Access. 
+10:23:23.401 ERROR Have an error: Missing Access. 
+10:23:24.803 ERROR Have an error: Missing Access. 
+10:23:26.412 ERROR Have an error: Missing Access. 
+10:23:26.883 ERROR Have an error: Missing Access. 
+10:23:28.037 ERROR Have an error: Missing Access. 
+10:23:28.040 ERROR Have an error: Missing Access. 
+10:23:28.344 ERROR Have an error: Missing Access. 
+10:23:28.375 ERROR Have an error: Missing Access. 
+10:23:28.677 ERROR Have an error: Missing Access. 
+10:23:28.679 ERROR Have an error: Missing Access. 
+10:23:28.970 ERROR Have an error: Missing Access. 
+10:23:28.980 ERROR Have an error: Missing Access. 
+10:23:29.271 ERROR Have an error: Missing Access. 
+10:23:29.312 ERROR Have an error: Missing Access. 
+10:23:29.611 ERROR Have an error: Missing Access. 
+10:23:29.908 ERROR Have an error: Missing Access. 
+10:23:35.648 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:23:37.228 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:23:45.811 ERROR Have an error: Missing Access. 
+10:23:45.819 ERROR Have an error: Missing Access. 
+10:23:47.518 ERROR Have an error: Missing Access. 
+10:23:50.614 ERROR Have an error: Missing Access. 
+10:23:52.446 ERROR Have an error: Missing Access. 
+10:23:53.637 ERROR Have an error: Missing Access. 
+10:23:55.518 ERROR Have an error: Missing Access. 
+10:23:58.886 ERROR Have an error: Missing Access. 
+10:24:06.302 ERROR Have an error: Missing Access. 
+10:24:12.400 ERROR Have an error: Missing Access. 
+10:24:15.785 ERROR Have an error: Missing Access. 
+10:24:17.468 ERROR Have an error: Missing Access. 
+10:24:24.534 ERROR Have an error: Missing Access. 
+10:24:28.654 ERROR Have an error: Missing Access. 
+10:24:34.473 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:24:36.069 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:25:18.628 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:25:20.545 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:29:19.845 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:29:21.325 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:29:40.117 ERROR Have an error: Missing Access. 
+10:29:40.122 ERROR Have an error: Missing Access. 
+10:29:41.862 ERROR Have an error: Missing Access. 
+10:29:44.755 ERROR Have an error: Missing Access. 
+10:29:46.364 ERROR Have an error: Missing Access. 
+10:29:49.370 ERROR Have an error: Missing Access. 
+10:30:13.478 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:30:14.967 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:30:32.241 ERROR Have an error: Missing Access. 
+10:30:32.289 ERROR Have an error: Missing Access. 
+10:30:33.823 ERROR Have an error: Missing Access. 
+10:30:36.827 ERROR Have an error: Missing Access. 
+10:30:38.255 ERROR Have an error: Missing Access. 
+10:30:39.940 ERROR Have an error: Missing Access. 
+10:30:39.961 ERROR Have an error: Missing Access. 
+10:30:44.569 ERROR Have an error: Missing Access. 
+10:30:46.538 ERROR Have an error: Missing Access. 
+10:30:46.832 ERROR Have an error: Missing Access. 
+10:30:47.122 ERROR Have an error: Missing Access. 
+10:30:47.421 ERROR Have an error: Missing Access. 
+10:30:47.735 ERROR Have an error: Missing Access. 
+10:30:48.061 ERROR Have an error: Missing Access. 
+10:30:48.368 ERROR Have an error: Missing Access. 
+10:30:56.282 ERROR Have an error: Missing Access. 
+10:30:59.742 ERROR Have an error: Unknown Channel. 
+10:30:59.751 ERROR Have an error: Missing Access. 
+10:31:01.413 ERROR Have an error: Missing Access. 
+10:31:03.109 ERROR Have an error: Missing Access. 
+10:31:07.090 ERROR Have an error: Missing Access. 
+10:31:07.637 ERROR Have an error: Missing Access. 
+10:31:08.962 ERROR Have an error: Missing Access. 
+10:31:12.940 ERROR Have an error: Missing Access. 
+10:31:14.643 ERROR Have an error: Missing Access. 
+10:31:17.524 ERROR Have an error: Missing Access. 
+10:31:18.986 ERROR Have an error: Missing Access. 
+10:31:20.600 ERROR Have an error: Missing Access. 
+10:31:22.259 ERROR Have an error: Missing Access. 
+10:31:24.456 ERROR Have an error: Missing Access. 
+10:31:26.435 ERROR Have an error: Missing Access. 
+10:31:34.256 ERROR Have an error: Missing Access. 
+10:31:37.826 ERROR Have an error: Missing Access. 
+10:31:39.281 ERROR Have an error: Missing Access. 
+10:31:40.902 ERROR Have an error: Missing Access. 
+10:31:44.120 ERROR Have an error: Missing Access. 
+10:31:47.420 ERROR Have an error: Missing Access. 
+10:31:47.910 ERROR Have an error: Missing Access. 
+10:31:48.523 ERROR Have an error: Missing Access. 
+10:31:53.543 ERROR Have an error: Missing Access. 
+10:31:53.850 ERROR Have an error: Missing Access. 
+10:31:54.314 ERROR Have an error: Missing Access. 
+10:31:56.015 ERROR Have an error: Missing Access. 
+10:31:58.193 ERROR Have an error: Missing Access. 
+10:31:59.334 ERROR Have an error: Missing Access. 
+10:32:01.334 ERROR Have an error: Missing Access. 
+10:32:41.311 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:32:42.810 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:32:52.782 ERROR Have an error: Missing Access. 
+10:32:54.720 ERROR Have an error: Missing Access. 
+10:32:54.753 ERROR Have an error: Missing Access. 
+10:32:54.762 ERROR Have an error: Unknown Message. 
+10:32:59.385 ERROR Have an error: Missing Access. 
+10:33:02.646 ERROR Have an error: Missing Access. 
+10:33:02.690 ERROR Have an error: Missing Access. 
+10:33:06.829 ERROR Have an error: Missing Access. 
+10:33:18.961 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:33:20.440 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:41:52.180 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:41:54.340 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:44:08.922 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:44:10.628 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:44:56.415 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:44:58.138 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:45:09.657 ERROR Have an error: Missing Access. 
+10:45:12.609 ERROR Have an error: Missing Access. 
+10:45:13.992 ERROR Have an error: Missing Access. 
+10:45:13.998 ERROR Have an error: Missing Access. 
+10:45:15.433 ERROR Have an error: Missing Access. 
+10:45:17.029 ERROR Have an error: Missing Access. 
+10:45:19.754 ERROR Have an error: Missing Access. 
+10:45:21.571 ERROR Have an error: Missing Access. 
+10:45:24.532 ERROR Have an error: Missing Access. 
+10:45:24.636 ERROR Have an error: Missing Access. 
+10:45:24.835 ERROR Have an error: Missing Access. 
+10:45:26.235 ERROR Have an error: Missing Access. 
+10:46:31.160 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:46:32.636 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:46:46.885 ERROR Have an error: Missing Access. 
+10:46:58.445 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:47:00.019 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:51:18.307 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:51:20.013 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:51:30.375 ERROR Have an error: Missing Access. 
+10:51:32.559 ERROR Have an error: Missing Access. 
+10:51:32.597 ERROR Have an error: Missing Access. 
+10:51:37.638 ERROR Have an error: Missing Access. 
+10:51:42.290 ERROR Have an error: Missing Access. 
+10:51:45.632 ERROR Have an error: Missing Access. 
+10:51:47.539 ERROR Have an error: Missing Access. 
+10:51:47.856 ERROR Have an error: Missing Access. 
+10:51:49.143 ERROR Have an error: Missing Access. 
+10:51:50.812 ERROR Have an error: Missing Access. 
+10:51:58.516 ERROR Have an error: Missing Access. 
+10:52:00.169 ERROR Have an error: Missing Access. 
+10:52:01.973 ERROR Have an error: Missing Access. 
+10:52:03.606 ERROR Have an error: Missing Access. 
+10:52:05.313 ERROR Have an error: Missing Access. 
+10:52:05.609 ERROR Have an error: Missing Access. 
+10:52:15.401 ERROR Have an error: Missing Access. 
+10:52:17.187 ERROR Have an error: Missing Access. 
+10:52:22.097 ERROR Have an error: Missing Access. 
+10:52:23.865 ERROR Have an error: Missing Access. 
+10:52:25.531 ERROR Have an error: Missing Access. 
+10:52:25.568 ERROR Have an error: Missing Access. 
+10:52:27.356 ERROR Have an error: Missing Access. 
+10:52:29.523 ERROR Have an error: Missing Access. 
+10:52:29.940 ERROR Have an error: Missing Access. 
+10:52:30.353 ERROR Have an error: Missing Access. 
+10:52:31.791 ERROR Have an error: Missing Access. 
+10:52:37.638 ERROR Have an error: Missing Access. 
+10:52:39.235 ERROR Have an error: Missing Access. 
+10:52:44.175 ERROR Have an error: Missing Access. 
+10:52:46.074 ERROR Have an error: Missing Access. 
+10:52:47.787 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:52:49.483 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:53:04.821 ERROR Have an error: Missing Access. 
+10:53:17.232 ERROR Have an error: Missing Access. 
+10:53:23.952 ERROR Have an error: Missing Access. 
+10:53:27.567 ERROR Have an error: Missing Access. 
+10:53:27.583 ERROR Have an error: Missing Access. 
+10:53:44.085 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:53:45.691 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:57:27.701 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:57:29.399 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+11:02:14.291 ERROR Have an error: Cannot access 'feedback' before initialization. 
+11:02:42.657 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:02:44.258 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+11:03:01.054 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+11:04:17.906 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:04:19.786 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+15:07:27.724 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:07:51.120 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+15:10:11.318 ERROR Have an error: Invalid Form Body
+embeds[0].fields[2].value: Must be 1024 or fewer in length.. 
+16:25:25.669 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+16:30:08.034 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+16:32:08.267 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+16:32:42.573 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+16:33:39.470 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+16:34:06.770 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+16:34:19.549 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:17:55.426 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:21:22.647 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:21:32.639 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:21:44.580 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:21:45.420 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:23.896 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:24.345 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:25.120 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:25.438 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:25.866 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:26.314 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:27.463 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:27.476 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:27.792 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:28.272 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:29.101 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:35.132 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:35.139 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:35.478 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:35.904 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:36.403 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:37.842 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:38.300 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:39.189 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:39.205 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:39.902 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:25:40.343 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+18:50:08.569 ERROR Have an error: Request failed with status code 400. 
+13:47:14.133 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:47:19.238 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:47:25.408 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:47:27.123 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:47:35.155 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:47:36.855 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:47:41.789 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:47:43.524 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:50:10.823 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:50:12.749 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+21:50:25.682 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:50:27.385 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:54:28.530 ERROR Have an error: Request failed with status code 400. 
+23:02:01.426 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:02:03.069 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:02:45.203 ERROR Have an error: Cannot read properties of undefined (reading 'roles'). 
+

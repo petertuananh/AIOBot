@@ -1,0 +1,21 @@
+08:30:21.290 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:30:28.891 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:31:21.115 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+08:33:34.718 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:33:37.383 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:33:41.912 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+08:33:45.405 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+08:33:59.068 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:34:01.759 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:34:14.467 ERROR Have an error: Cannot read properties of undefined (reading 'has'). 
+08:34:14.808 ERROR Have an error: Cannot read properties of null (reading 'permission'). 
+08:34:17.118 ERROR Have an error: Cannot read properties of undefined (reading 'has'). 
+08:34:17.384 ERROR Have an error: Cannot read properties of null (reading 'permission'). 
+08:34:23.990 ERROR Have an error: Cannot read properties of undefined (reading 'has'). 
+08:34:56.451 ERROR Have an error: Cannot read properties of undefined (reading 'has'). 
+08:35:29.142 ERROR Have an error: Cannot read properties of undefined (reading 'has'). 
+08:37:15.568 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:37:18.116 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:39:13.013 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:39:16.307 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:41:21.817 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 

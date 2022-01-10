@@ -1,0 +1,10 @@
+19:58:29.649 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:58:31.252 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+19:59:40.861 ERROR Have an error: Unknown Message. 
+20:08:19.827 ERROR Have an error: message is not defined. 
+20:08:41.212 ERROR Have an error: message is not defined. 
+20:23:34.398 ERROR Have an error: Cannot read properties of null (reading 'bot'). 
+20:35:56.909 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:36:07.626 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+20:42:27.218 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:42:29.274 INFO  c Loading event(s) -=-=-=-=-=-=-= 

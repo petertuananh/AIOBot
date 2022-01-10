@@ -1,0 +1,527 @@
+00:02:27.251 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:02:29.611 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:03:48.575 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:03:50.240 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:04:26.165 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:04:27.871 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:05:28.154 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:05:29.856 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:07:34.760 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:07:36.670 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:10:09.577 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:10:11.558 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:10:18.608 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+00:24:29.705 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:24:31.928 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:24:47.963 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+00:24:47.969 ERROR Đã có lỗi xảy ra: MessageEmbed is not defined. 
+00:25:38.785 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:25:40.901 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:25:52.793 ERROR Đã có lỗi xảy ra: Cannot send messages to this user. 
+00:28:13.999 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:28:17.371 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:29:26.929 ERROR Đã có lỗi xảy ra: Cannot send messages to this user. 
+00:33:29.513 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:33:31.433 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:33:45.078 ERROR Đã có lỗi xảy ra: Cannot send messages to this user. 
+00:34:44.917 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:34:46.639 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:38:28.565 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:38:30.254 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:47:57.002 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:47:58.728 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+01:04:13.860 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:04:15.584 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:17:42.974 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:17:45.576 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:19:19.394 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:19:21.099 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:19:28.310 ERROR Đã có lỗi xảy ra: MessageEmbed is not defined. 
+08:19:47.155 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:19:48.772 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:20:04.482 ERROR Đã có lỗi xảy ra: MessageEmbed is not a constructor. 
+08:21:29.831 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:21:31.666 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:24:25.397 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'id'). 
+08:28:07.836 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:28:09.560 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:54:36.133 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:54:38.449 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:55:30.200 ERROR Đã có lỗi xảy ra: reason is not defined. 
+08:55:56.248 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:55:58.175 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:56:05.532 ERROR Đã có lỗi xảy ra: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+08:57:07.740 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:57:09.455 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:57:17.154 ERROR Đã có lỗi xảy ra: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+08:58:09.298 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:58:12.588 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:58:22.488 ERROR Đã có lỗi xảy ra: antibot is not defined. 
+08:58:37.607 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:58:40.181 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:01:10.810 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:01:12.768 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:15:39.845 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:15:41.968 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:16:09.658 ERROR Đã có lỗi xảy ra: Unknown Message. 
+10:57:07.486 ERROR Đã có lỗi xảy ra: Unknown Message. 
+10:57:16.564 ERROR Đã có lỗi xảy ra: Unknown Message. 
+10:57:27.030 ERROR Đã có lỗi xảy ra: Unknown Message. 
+10:57:42.896 ERROR Đã có lỗi xảy ra: Unknown Message. 
+12:31:26.413 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:31:29.374 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:34:07.967 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:34:09.845 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:34:41.564 ERROR Đã có lỗi xảy ra: message is not defined. 
+12:35:10.474 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:35:12.409 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:35:36.842 ERROR Đã có lỗi xảy ra: message is not defined. 
+12:36:03.598 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:36:05.370 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:36:44.236 ERROR Đã có lỗi xảy ra: guild is not defined. 
+12:37:29.433 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:37:31.920 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:40:29.857 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:40:31.654 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:41:12.037 ERROR Đã có lỗi xảy ra: message is not defined. 
+12:41:44.815 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:41:47.464 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:46:55.483 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:46:57.933 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:50:00.523 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:50:02.465 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:52:14.163 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:52:15.849 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:52:30.206 ERROR Đã có lỗi xảy ra: member is not defined. 
+12:54:03.713 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:54:05.576 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:54:13.151 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'id'). 
+12:55:05.922 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:55:07.653 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:56:50.281 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:56:51.886 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:21:02.798 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:21:11.542 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:24:13.182 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:24:18.897 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:27:13.105 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:27:19.927 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:28:57.875 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:29:05.441 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:29:19.332 ERROR Đã có lỗi xảy ra: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+13:31:44.127 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:33:51.827 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:33:53.761 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:33:55.328 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:34:46.239 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:34:47.794 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:35:10.402 ERROR Đã có lỗi xảy ra: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+13:36:31.291 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:36:32.960 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:36:40.992 ERROR Đã có lỗi xảy ra: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+13:37:38.571 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:37:40.224 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:37:51.594 ERROR Đã có lỗi xảy ra: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+13:38:12.411 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:38:14.192 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:40:25.302 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:40:27.026 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:40:49.590 ERROR Đã có lỗi xảy ra: message is not defined. 
+13:44:04.543 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:44:06.140 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:44:56.082 ERROR Đã có lỗi xảy ra: message is not defined. 
+13:45:25.599 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:45:27.195 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:45:52.232 ERROR Đã có lỗi xảy ra: on is not defined. 
+13:46:34.277 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:46:35.854 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:48:41.965 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:48:43.557 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:54:39.502 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:54:41.098 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:57:00.752 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:57:02.358 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:58:55.168 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:58:57.226 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:00:38.929 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:00:40.507 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:03:53.594 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:03:55.161 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:06:21.094 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:06:22.683 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:07:17.241 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:07:18.821 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:08:06.402 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:08:07.967 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:09:27.138 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:09:28.810 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:09:41.913 ERROR Đã có lỗi xảy ra: member is not a function. 
+14:10:24.157 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:10:25.853 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:22:00.678 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:22:02.371 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:27:49.561 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:27:51.185 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:32:39.721 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:32:41.392 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:11:40.938 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:11:42.541 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:11:49.717 ERROR Đã có lỗi xảy ra: user is not defined. 
+15:11:51.805 ERROR Đã có lỗi xảy ra: user is not defined. 
+15:11:55.623 ERROR Đã có lỗi xảy ra: user is not defined. 
+15:11:56.400 ERROR Đã có lỗi xảy ra: user is not defined. 
+15:11:57.099 ERROR Đã có lỗi xảy ra: user is not defined. 
+15:11:58.458 ERROR Đã có lỗi xảy ra: user is not defined. 
+15:13:07.796 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:13:10.754 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:13:46.362 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:13:48.266 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:15:22.083 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:15:23.898 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:15:34.259 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:15:36.264 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:17:48.703 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:17:50.529 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:18:34.846 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:18:36.570 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:19:23.890 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:19:26.928 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:20:11.396 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:20:12.128 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:27:11.513 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:27:12.234 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:29:27.787 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:29:28.499 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:33:34.250 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:33:35.010 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:34:16.116 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:34:16.825 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:46:59.795 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:47:00.511 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:47:26.888 ERROR Đã có lỗi xảy ra: user is not defined. 
+15:48:01.050 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:48:01.755 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:48:15.002 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'add'). 
+15:52:04.728 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:52:05.486 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:52:31.037 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'add'). 
+15:53:59.677 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:54:00.554 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:54:55.954 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:54:56.673 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:55:09.122 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'add'). 
+15:55:39.327 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:55:40.047 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:55:49.179 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'add'). 
+15:58:03.372 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:58:04.093 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:58:28.702 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'add'). 
+15:59:25.779 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:59:26.472 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:59:44.684 ERROR Đã có lỗi xảy ra: message.id.add is not a function. 
+16:02:22.924 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:02:23.669 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:02:39.120 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'roles'). 
+16:04:22.041 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:04:22.744 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:50:10.034 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:50:12.234 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:50:35.242 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:50:36.187 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:51:20.882 ERROR Đã có lỗi xảy ra: member is not defined. 
+17:51:31.240 ERROR Đã có lỗi xảy ra: member is not defined. 
+17:51:31.559 ERROR Đã có lỗi xảy ra: member is not defined. 
+17:52:14.856 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:52:15.585 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:55:32.983 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+17:55:33.933 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+17:55:35.442 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+17:55:36.156 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+17:55:40.618 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+17:57:33.005 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:57:33.799 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:58:15.775 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:58:17.089 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:58:52.031 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:58:53.170 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:01:04.143 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:01:04.944 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:02:50.427 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:02:51.151 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:03:00.899 ERROR Đã có lỗi xảy ra: ok is not defined. 
+18:03:19.903 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:03:20.730 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:04:42.414 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:04:43.140 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:04:45.289 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'id'). 
+18:05:29.768 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:05:30.496 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:05:32.745 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'id'). 
+18:06:16.621 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:06:17.349 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:06:19.697 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'id'). 
+18:09:24.351 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:09:25.172 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:09:30.468 ERROR Đã có lỗi xảy ra: Cannot access 'ping' before initialization. 
+18:09:30.691 ERROR Đã có lỗi xảy ra: Cannot access 'ping' before initialization. 
+18:09:30.938 ERROR Đã có lỗi xảy ra: Cannot access 'ping' before initialization. 
+18:09:31.272 ERROR Đã có lỗi xảy ra: Cannot access 'ping' before initialization. 
+18:10:33.395 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:10:37.458 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:11:00.489 ERROR Đã có lỗi xảy ra: pingeveryone is not defined. 
+18:11:00.857 ERROR Đã có lỗi xảy ra: pingeveryone is not defined. 
+18:11:01.688 ERROR Đã có lỗi xảy ra: pingeveryone is not defined. 
+18:11:02.280 ERROR Đã có lỗi xảy ra: pingeveryone is not defined. 
+18:11:02.815 ERROR Đã có lỗi xảy ra: pingeveryone is not defined. 
+18:11:38.288 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:11:40.536 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:11:46.351 ERROR Đã có lỗi xảy ra: Cannot access 'ping' before initialization. 
+18:11:51.771 ERROR Đã có lỗi xảy ra: Cannot access 'ping' before initialization. 
+18:11:52.228 ERROR Đã có lỗi xảy ra: Cannot access 'ping' before initialization. 
+18:11:52.697 ERROR Đã có lỗi xảy ra: Cannot access 'ping' before initialization. 
+18:11:53.555 ERROR Đã có lỗi xảy ra: Cannot access 'ping' before initialization. 
+18:11:54.434 ERROR Đã có lỗi xảy ra: Cannot access 'ping' before initialization. 
+18:13:24.614 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:13:28.624 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:13:38.148 ERROR Đã có lỗi xảy ra: pingeveryone is not defined. 
+18:13:38.442 ERROR Đã có lỗi xảy ra: pingeveryone is not defined. 
+18:13:38.948 ERROR Đã có lỗi xảy ra: pingeveryone is not defined. 
+18:13:39.448 ERROR Đã có lỗi xảy ra: pingeveryone is not defined. 
+18:13:40.150 ERROR Đã có lỗi xảy ra: pingeveryone is not defined. 
+18:14:09.052 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:14:13.522 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:14:21.424 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:14:21.892 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:14:22.551 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:14:23.666 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:15:02.240 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:15:06.454 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:15:18.858 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone-911244168226013205-786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:15:19.308 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone-911244168226013205-786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:15:20.156 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone-911244168226013205-786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:15:20.688 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone-911244168226013205-786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:15:21.160 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone-911244168226013205-786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:16:26.518 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:16:31.164 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:16:39.048 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:16:39.642 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:16:40.239 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:16:40.752 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:16:41.340 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:16:41.749 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:35:24.243 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:35:25.951 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:37:12.939 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:37:19.289 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:37:19.801 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:37:20.003 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:38:31.106 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:38:32.736 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:39:32.639 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:39:38.437 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:39:38.627 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:39:38.840 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:42:17.629 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:42:19.277 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:42:27.969 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:42:28.193 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:42:29.336 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:42:30.141 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+18:42:51.701 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+18:43:20.766 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:05:16.775 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+19:05:23.171 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+19:05:23.384 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+19:05:23.586 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+19:05:23.799 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+19:07:31.231 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:07:33.146 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:09:43.040 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+19:10:57.873 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:10:59.503 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:12:04.358 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+19:12:08.574 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+19:12:08.787 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+19:12:09.000 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+19:16:37.459 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:16:39.197 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:30:17.220 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:30:18.992 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:59:31.418 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:59:33.139 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:59:40.046 ERROR Đã có lỗi xảy ra: count is not defined. 
+19:59:40.473 ERROR Đã có lỗi xảy ra: count is not defined. 
+19:59:41.075 ERROR Đã có lỗi xảy ra: count is not defined. 
+19:59:41.730 ERROR Đã có lỗi xảy ra: count is not defined. 
+19:59:42.216 ERROR Đã có lỗi xảy ra: count is not defined. 
+19:59:42.673 ERROR Đã có lỗi xảy ra: count is not defined. 
+19:59:43.199 ERROR Đã có lỗi xảy ra: count is not defined. 
+20:00:38.164 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:00:39.824 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:01:10.202 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'count'). 
+20:01:10.701 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'count'). 
+20:01:11.241 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'count'). 
+20:01:11.688 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'count'). 
+20:01:12.152 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'count'). 
+20:01:13.372 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'count'). 
+20:01:43.277 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:01:45.057 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:01:57.707 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'count'). 
+20:01:58.577 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'count'). 
+20:01:58.933 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'count'). 
+20:01:59.814 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'count'). 
+20:02:00.263 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'count'). 
+20:02:00.649 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'count'). 
+20:04:24.007 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:04:25.764 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:07:38.030 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:07:39.908 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:07:49.956 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+20:09:09.063 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:09:10.735 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:10:52.482 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+20:11:31.593 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:11:33.413 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:12:32.974 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+20:12:43.308 ERROR Đã có lỗi xảy ra: Data @ ID: "pingeveryone_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+20:13:16.670 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:13:18.481 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:14:47.416 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:14:49.135 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:16:51.226 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:16:52.889 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:18:47.147 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:18:48.971 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:25:31.768 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:25:33.484 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:29:19.246 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:29:21.008 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:29:48.433 ERROR Đã có lỗi xảy ra: member is not defined. 
+20:30:11.363 ERROR Đã có lỗi xảy ra: member is not defined. 
+20:30:11.956 ERROR Đã có lỗi xảy ra: member is not defined. 
+20:30:14.833 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:30:16.531 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:34:11.993 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:34:13.629 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:38:14.569 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:38:16.542 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:43:14.003 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:43:15.789 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:44:06.143 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:44:07.753 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:44:59.803 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:45:01.494 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:52:34.185 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:52:35.857 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:54:11.679 ERROR Đã có lỗi xảy ra: Unknown Message. 
+20:54:12.603 ERROR Đã có lỗi xảy ra: The operation was aborted. 
+20:54:20.626 ERROR Đã có lỗi xảy ra: author.kick is not a function. 
+20:54:20.722 ERROR Đã có lỗi xảy ra: Unknown Message. 
+20:55:37.462 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:58:10.001 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:58:13.407 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:58:15.082 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:59:44.670 ERROR Đã có lỗi xảy ra: Unknown Message. 
+21:21:56.712 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:21:58.572 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:45:13.543 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:45:15.252 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:09:30.275 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:09:33.248 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:09:50.410 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:09:52.785 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:20:22.867 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:20:25.533 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:35:45.005 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:35:47.437 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+

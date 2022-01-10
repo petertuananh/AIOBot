@@ -1,0 +1,107 @@
+07:10:21.525 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:10:24.439 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:12:56.982 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:12:58.736 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:21:19.395 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:21:21.585 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:23:39.786 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:23:42.043 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:24:23.779 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:24:25.730 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:24:52.703 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:24:54.765 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:24:59.968 ERROR Have an error: key is not defined. 
+07:25:32.703 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:25:34.731 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:27:47.398 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:27:49.440 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:30:28.186 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:30:30.424 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:32:21.235 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:32:23.389 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:33:05.935 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:33:08.022 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:34:31.886 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:34:33.917 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:35:29.364 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:35:31.688 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:35:53.799 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:35:56.114 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:36:15.921 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:36:18.011 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:36:25.345 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:36:27.061 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:36:41.228 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:36:42.918 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:37:24.111 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:37:26.259 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:40:39.531 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:40:41.926 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:11:36.326 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:11:44.423 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:19:25.677 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:19:53.119 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:26:22.627 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:26:24.735 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:35:11.582 ERROR Have an error: Invalid Form Body
+message_reference: Unknown message. 
+10:39:01.375 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:39:03.917 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:52:03.041 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:52:05.370 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:53:25.038 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:53:27.018 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:54:50.208 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:54:52.415 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:57:09.904 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:57:11.854 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:59:19.964 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:59:22.085 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+11:04:22.898 ERROR Have an error: Invalid Form Body
+components[0].components[0].emoji.id: Invalid emoji. 
+11:07:39.539 ERROR Have an error: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+15:40:17.277 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:41:01.148 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+15:49:36.146 ERROR Have an error: Invalid Form Body
+components[0].components[0].emoji.id: Invalid emoji. 
+15:52:04.183 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:52:05.539 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+15:54:13.946 ERROR Have an error: Invalid Form Body
+components[0].components[0].emoji.id: Invalid emoji. 
+15:56:31.316 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:56:32.849 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+15:59:20.448 ERROR Have an error: Cannot destroy VoiceConnection - it has already been destroyed. 
+16:34:11.291 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:35:19.406 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:35:34.167 ERROR Have an error: Unknown Message. 
+16:35:40.869 ERROR Have an error: Request failed with status code 400. 
+16:36:19.340 ERROR Have an error: Unknown Message. 
+16:36:33.876 ERROR Have an error: Unknown Message. 
+16:36:41.727 ERROR Have an error: Request failed with status code 503. 
+16:36:41.768 ERROR Have an error: Request failed with status code 503. 
+16:36:41.817 ERROR Have an error: Request failed with status code 503. 
+16:36:41.871 ERROR Have an error: Request failed with status code 503. 
+16:36:48.309 ERROR Have an error: Unknown Message. 
+16:37:20.689 ERROR Have an error: Unknown Message. 
+16:38:53.301 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:38:55.157 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:39:10.786 ERROR Have an error: Unknown Message. 
+16:39:12.211 ERROR Have an error: Unknown Message. 
+16:39:21.785 ERROR Have an error: message is not defined. 
+16:39:23.928 ERROR Have an error: message is not defined. 
+16:39:36.996 ERROR Have an error: message is not defined. 
+16:39:41.816 ERROR Have an error: Unknown Message. 
+16:39:46.494 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:39:48.507 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:39:59.394 ERROR Have an error: message is not defined. 
+16:40:14.768 ERROR Have an error: message is not defined. 
+16:40:22.405 ERROR Have an error: Unknown Message. 
+16:40:35.196 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:40:37.897 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:41:04.483 ERROR Have an error: Unknown Message. 
+16:41:33.950 ERROR Have an error: Unknown Message. 
+17:06:06.548 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:06:09.231 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+17:07:03.079 ERROR Have an error: Unknown Message. 
+17:07:03.446 ERROR Have an error: Unknown Message. 
+17:11:36.552 ERROR Have an error: Unknown Message. 

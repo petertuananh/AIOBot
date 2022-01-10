@@ -1,0 +1,31 @@
+10:31:25.217 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:35:06.789 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:35:07.900 ERROR An invalid token was provided. 
+10:35:55.592 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:36:04.062 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:36:46.409 ERROR Have an error: Cannot read properties of undefined (reading 'query'). 
+10:36:59.399 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:37:05.003 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:38:40.772 ERROR Have an error: Invalid bitfield flag or number: ADMINSTRATOR.. 
+10:39:33.099 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:39:59.291 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:40:28.651 ERROR Have an error: Cannot read properties of undefined (reading 'query'). 
+10:40:29.787 ERROR Have an error: Cannot read properties of undefined (reading 'query'). 
+10:40:59.372 ERROR Have an error: Unknown Message. 
+10:41:39.658 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:41:44.791 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:43:58.154 ERROR Have an error: AIChatBot.reply is not a function. 
+10:43:58.382 ERROR Have an error: AIChatBot.reply is not a function. 
+10:43:59.807 ERROR Have an error: AIChatBot.reply is not a function. 
+10:44:01.812 ERROR Have an error: AIChatBot.reply is not a function. 
+10:44:03.605 ERROR Have an error: AIChatBot.reply is not a function. 
+10:44:08.298 ERROR Have an error: AIChatBot.reply is not a function. 
+10:44:09.938 ERROR Have an error: AIChatBot.reply is not a function. 
+10:44:12.388 ERROR Have an error: AIChatBot.reply is not a function. 
+10:44:13.762 ERROR Have an error: AIChatBot.reply is not a function. 
+10:44:17.157 ERROR Have an error: AIChatBot.reply is not a function. 
+10:44:21.246 ERROR Have an error: AIChatBot.reply is not a function. 
+10:44:33.411 ERROR Have an error: AIChatBot.reply is not a function. 
+10:44:35.976 ERROR Have an error: AIChatBot.reply is not a function. 
+10:44:38.083 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:44:41.038 INFO  c Loading event(s) -=-=-=-=-=-=-= 

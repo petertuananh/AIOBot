@@ -1,0 +1,160 @@
+08:21:43.749 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:22:00.616 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:25:58.404 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:26:05.948 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:26:22.221 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+08:30:28.781 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:30:36.693 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:31:00.333 ERROR Have an error: No value specified. Need Help? Check Out: discord.gg/plexidev. 
+08:31:43.627 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:31:51.213 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:35:08.877 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:35:16.823 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:41:23.703 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:41:29.817 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:43:10.982 ERROR Have an error: Cannot read properties of undefined (reading 'channel'). 
+08:43:52.297 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:43:58.453 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:44:17.231 ERROR Have an error: Cannot read properties of undefined (reading 'author'). 
+09:00:14.441 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:00:44.452 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:15:34.391 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:16:04.719 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:17:22.604 ERROR Have an error: Cannot read properties of undefined (reading 'channel'). 
+16:19:01.992 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:19:04.781 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:19:49.346 ERROR Have an error: channel.createMessageCollector is not a function. 
+16:27:07.448 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:27:12.022 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:27:35.642 ERROR Have an error: createMessageCollector is not defined. 
+16:27:52.973 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:27:55.731 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:28:11.404 ERROR Have an error: m.createMessageCollector is not a function. 
+16:29:13.141 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:29:16.522 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:29:38.159 ERROR Have an error: reaction.message.guild.members.cache.get(...).createMessageCollector is not a function. 
+16:30:35.258 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:30:39.102 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:30:52.249 ERROR Have an error: channel.createMessageCollector is not a function. 
+16:31:24.779 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:31:28.488 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:32:20.189 ERROR Have an error: user.createMessageCollector is not a function. 
+16:36:47.436 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:36:51.115 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:37:05.323 ERROR Have an error: Cannot read properties of undefined (reading 'createMessageCollector'). 
+16:43:52.321 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:43:54.904 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:44:11.709 ERROR Have an error: Cannot read properties of undefined (reading 'channel'). 
+16:44:47.588 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:44:50.074 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:45:35.966 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:45:38.229 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:48:38.907 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:48:41.098 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:48:58.418 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:49:00.693 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:50:32.568 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:50:35.059 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:50:48.350 ERROR Have an error: Cannot read properties of undefined (reading 'channel'). 
+16:51:25.664 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:51:28.472 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:53:44.326 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:53:47.188 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:53:59.768 ERROR Have an error: verify is not defined. 
+16:54:04.714 ERROR Have an error: verify is not defined. 
+16:54:24.087 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:54:27.033 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+17:00:17.828 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:00:21.004 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+17:01:10.243 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:01:13.139 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+17:02:42.924 ERROR Have an error: Unknown Message. 
+17:03:34.577 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:03:37.112 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+17:08:58.090 ERROR Have an error: ENOENT: no such file or directory, lstat 'D:\AIO Zone\AIO\dashboard'. 
+17:09:13.231 ERROR Have an error: ENOENT: no such file or directory, lstat 'D:\AIO Zone\AIO\dashboard'. 
+17:11:03.147 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:11:05.781 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+17:17:23.684 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:22:10.139 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:22:12.310 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+17:22:45.859 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:23:04.162 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:23:09.225 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:23:09.444 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:23:11.642 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:23:13.855 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+17:24:44.249 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:24:47.050 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+17:26:02.042 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:26:09.877 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:26:24.640 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:26:27.313 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+17:26:33.330 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:26:37.490 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:26:44.775 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:27:10.201 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:27:13.103 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+17:29:02.718 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:29:11.847 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:29:22.687 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:29:42.345 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:29:44.715 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+17:30:12.488 ERROR Have an error: text.delete is not a function. 
+17:31:12.346 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:31:14.410 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+17:31:40.239 ERROR Have an error: t is not defined. 
+17:33:30.895 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:33:33.078 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+17:35:35.147 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:35:35.477 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+17:35:58.240 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:36:00.843 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+17:36:31.959 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:36:34.285 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+18:36:47.636 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:37:04.173 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+18:39:58.553 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:40:01.894 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:36:32.227 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:37:06.401 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:37:26.989 ERROR request to https://discord.com/api/v9/gateway/bot failed, reason: read ECONNRESET 
+22:38:12.462 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:38:15.464 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:39:46.584 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:39:50.574 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:57:13.499 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:57:16.313 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:57:29.528 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:57:32.383 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:15:55.902 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:15:58.186 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:17:27.075 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:17:29.170 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:17:51.833 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:17:53.936 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:19:28.356 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:19:30.855 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:23:44.918 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:23:57.266 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:26:37.732 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:26:39.723 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:27:57.441 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:28:00.061 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:28:42.732 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:28:44.879 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:30:02.530 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:30:05.400 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:31:22.225 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:31:24.167 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:32:41.974 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:32:44.070 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:33:27.708 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:33:29.901 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:41:05.247 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:41:07.847 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:41:33.303 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:41:35.586 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:41:54.784 ERROR Have an error: Cannot read properties of undefined (reading 'id'). 
+23:45:44.688 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:45:46.890 INFO  c Loading event(s) -=-=-=-=-=-=-= 

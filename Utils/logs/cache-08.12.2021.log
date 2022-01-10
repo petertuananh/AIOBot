@@ -1,0 +1,149 @@
+14:01:41.104 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:01:43.205 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:02:54.501 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'start'). 
+14:05:17.976 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:05:19.949 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:05:30.642 ERROR Đã có lỗi xảy ra: GiveawaysManager is not defined. 
+14:06:47.393 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:06:50.955 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:06:54.789 ERROR Đã có lỗi xảy ra: Client is a required option. (val=<#906077764875083776>). 
+16:42:45.246 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:42:55.075 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:44:26.126 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:44:28.133 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:52:48.876 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:52:51.157 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:55:37.193 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:55:39.251 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:13:18.940 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'start'). 
+17:14:09.442 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'start'). 
+17:14:35.945 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'start'). 
+18:17:16.556 ERROR Đã có lỗi xảy ra: Unknown Message. 
+18:17:18.181 ERROR Đã có lỗi xảy ra: Unknown Message. 
+18:20:44.903 ERROR Đã có lỗi xảy ra: Unknown Message. 
+18:26:23.325 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'start'). 
+18:27:58.665 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:28:06.683 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:28:39.782 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'start'). 
+19:16:09.438 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:16:16.338 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:21:35.887 ERROR Đã có lỗi xảy ra: db is not defined. 
+20:37:43.711 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:38:05.570 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:41:38.947 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:41:41.149 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:51:10.925 ERROR Đã có lỗi xảy ra: Cannot delete a channel required for community servers. 
+20:51:44.844 ERROR Đã có lỗi xảy ra: Cannot delete a channel required for community servers. 
+20:52:08.076 ERROR Đã có lỗi xảy ra: Cannot delete a channel required for community servers. 
+20:53:19.364 ERROR Đã có lỗi xảy ra: Request failed with status code 502. 
+20:53:35.501 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+20:54:59.179 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+20:54:59.185 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+20:54:59.233 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:11:07.132 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:11:07.350 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:11:07.555 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:11:07.795 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:11:07.978 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:11:08.119 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:11:08.341 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:11:10.421 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:11:11.564 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:11:12.728 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:16:05.662 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:16:06.099 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:16:06.598 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:16:06.906 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:16:07.764 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:16:08.690 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:16:09.211 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:16:09.648 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:16:10.091 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:18:00.865 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:18:01.386 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:18:01.812 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:18:02.228 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:18:02.631 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:18:03.366 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:18:03.578 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:18:03.881 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:23:25.698 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:23:26.145 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:23:26.582 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:23:27.115 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:23:27.118 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:23:27.448 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:23:27.865 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:23:28.285 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'roles'). 
+21:30:51.262 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:30:51.760 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:13.461 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.351 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.381 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.384 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.404 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.408 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.418 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.425 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.430 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.434 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.442 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.445 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.474 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.480 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.483 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.507 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.523 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.526 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.537 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.547 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.550 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.552 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.558 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.567 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.570 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.578 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.581 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.589 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.594 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.608 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.615 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.619 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.624 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:52.768 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:53.627 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:55.049 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:55.053 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:55.060 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:55.065 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:55.070 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:55.072 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:55.093 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:55.098 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:55.128 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:55.260 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:55.275 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:55.327 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:55.373 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:55.396 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:31:57.219 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:32:48.913 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:32:48.934 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:32:49.009 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:52:14.194 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:52:14.199 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:52:14.204 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:52:17.594 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:52:17.599 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:52:17.620 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:52:27.947 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:52:27.996 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:52:32.398 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:53:15.502 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:53:15.517 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+21:53:15.533 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+22:10:16.003 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:10:32.871 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:17:48.473 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:17:56.871 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:31:24.355 ERROR Đã có lỗi xảy ra: Request failed with status code 502. 

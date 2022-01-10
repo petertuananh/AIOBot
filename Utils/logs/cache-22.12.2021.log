@@ -1,0 +1,28 @@
+11:11:22.185 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:11:59.357 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+11:22:31.694 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:22:44.183 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+11:23:25.812 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:23:29.507 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+11:23:57.535 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:23:59.449 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+11:34:11.635 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+13:00:07.815 ERROR Have an error: Cannot destroy VoiceConnection - it has already been destroyed. 
+13:02:20.447 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:02:57.402 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:07:31.017 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+20:07:59.336 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:22:30.096 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+20:23:26.607 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:23:38.692 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+20:35:00.047 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+20:39:49.543 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+20:40:24.109 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+20:40:31.995 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+20:40:39.739 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+20:40:54.335 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+20:46:20.770 ERROR Have an error: Unknown Message. 
+21:38:54.835 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+21:39:11.576 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+21:39:16.886 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+21:39:24.550 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 

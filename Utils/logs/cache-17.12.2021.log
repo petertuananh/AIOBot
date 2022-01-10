@@ -1,0 +1,117 @@
+09:49:58.369 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:50:06.452 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:45:51.939 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:45:53.939 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:46:30.201 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'get'). 
+10:46:57.852 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:46:59.962 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:49:26.519 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:49:29.249 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:49:41.057 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.063 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.065 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.071 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.073 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.075 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.078 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.080 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.084 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.091 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.096 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.102 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.104 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.108 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.110 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.112 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.119 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.121 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.124 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.126 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.129 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.133 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.136 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.139 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.141 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.144 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.149 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.151 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.153 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.156 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.158 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.165 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.167 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.170 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.174 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.180 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.182 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.184 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.187 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.190 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.195 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.197 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.200 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.203 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.205 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.212 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.214 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.216 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.220 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.226 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.229 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.231 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.234 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.239 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.243 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.245 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.247 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.249 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.255 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.257 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.261 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.264 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.269 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.272 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.275 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.277 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.279 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.283 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.288 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.290 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.292 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.295 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.301 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.303 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.305 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.307 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.309 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.312 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.317 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.319 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.321 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.323 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.325 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.329 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.334 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.336 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.339 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.341 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.347 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.348 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.351 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.353 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.355 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.360 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.365 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.367 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.369 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.372 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.377 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.380 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.382 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+10:49:41.384 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'prefix'). 
+10:49:59.988 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'prefix'). 
+14:44:23.590 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:44:41.503 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:46:26.033 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'name'). 
+14:58:46.853 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:58:48.846 INFO  c Loading event(s) -=-=-=-=-=-=-= 

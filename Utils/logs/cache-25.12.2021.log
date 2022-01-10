@@ -1,0 +1,88 @@
+00:30:21.853 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:30:23.618 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:47:22.359 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:47:24.439 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:49:29.284 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:49:31.505 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:49:57.946 ERROR Have an error: embed is not defined. 
+00:51:30.572 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:51:32.391 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:51:42.698 ERROR Have an error: Missing Access. 
+00:53:36.259 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:53:38.274 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:54:36.546 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:54:38.563 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:54:46.278 ERROR Have an error: Missing Access. 
+00:56:17.449 ERROR Have an error: Missing Access. 
+00:56:27.165 ERROR Have an error: Missing Access. 
+00:59:29.508 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:59:31.852 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+01:03:30.863 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:03:32.614 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:11:26.771 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:11:49.177 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:12:57.331 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:12:59.268 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:13:18.464 ERROR Have an error: MessageEmbed description must be a string.. 
+10:14:24.017 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:14:25.847 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:16:12.020 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:16:13.851 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:25:53.328 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:25:55.299 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:26:28.793 ERROR Have an error: Request failed with status code 400. 
+10:26:47.810 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:26:49.755 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:27:36.145 ERROR Have an error: Request failed with status code 400. 
+10:27:50.814 ERROR Have an error: Request failed with status code 400. 
+10:28:07.901 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:28:09.799 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:28:29.305 ERROR Have an error: Request failed with status code 400. 
+10:28:43.715 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:28:45.311 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:29:31.882 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:29:40.167 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:00:35.557 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:01:11.375 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:02:54.915 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:02:56.802 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:03:22.413 ERROR Have an error: Discord is not defined. 
+13:03:44.805 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:03:46.319 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:03:54.488 ERROR Have an error: Cannot read properties of undefined (reading 'MessageActionRow'). 
+13:04:57.924 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:04:59.835 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:05:28.849 ERROR Have an error: Cannot read properties of undefined (reading 'MessageButton'). 
+13:06:03.353 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:06:05.165 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:07:52.208 ERROR Have an error: Invalid Form Body
+components[0].components[0].custom_id: A custom id is required
+components[0].components[1].custom_id: A custom id is required. 
+13:08:00.752 ERROR Have an error: Request failed with status code 503. 
+13:08:34.011 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:08:36.006 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:09:37.739 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:09:39.558 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:12:33.749 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:12:35.987 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:13:58.475 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:14:00.479 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:14:22.598 ERROR Have an error: Invalid Form Body
+components[0].components[0].custom_id: A custom id is required
+components[0].components[1].custom_id: A custom id is required. 
+13:14:48.863 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:14:50.368 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:14:58.554 ERROR Have an error: (intermediate value).setStyle(...).setURL(...).setEmoji(...).setStyle(...).customId is not a function. 
+13:17:32.916 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:17:44.491 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:18:04.559 ERROR Have an error: Request failed with status code 503. 
+13:19:12.874 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:23:58.388 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:45:51.977 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:46:04.342 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:49:52.904 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:49:54.565 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:12:42.800 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:12:54.644 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:14:46.460 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:14:48.379 INFO  c Loading event(s) -=-=-=-=-=-=-= 

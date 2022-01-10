@@ -1,0 +1,84 @@
+13:56:13.443 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:56:48.486 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:01:04.795 ERROR Đã có lỗi xảy ra: guild is not defined. 
+14:01:41.533 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:01:44.360 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:01:56.237 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'cache'). 
+14:03:05.593 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:03:07.888 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:03:17.029 ERROR Đã có lỗi xảy ra: channels is not defined. 
+14:04:31.304 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:04:33.617 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:04:54.566 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'cache'). 
+14:06:35.120 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:06:37.465 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:09:00.764 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:09:03.067 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:14:48.696 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:14:51.489 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:16:04.691 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:16:07.160 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:16:51.350 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:16:53.993 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:17:24.833 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:17:27.469 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:19:09.560 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:19:18.743 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:19:59.367 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:20:02.961 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:27:43.025 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:27:46.107 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:32:18.278 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:32:21.737 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:33:59.207 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:34:02.979 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:35:29.832 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:35:32.428 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:36:49.748 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:36:52.060 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:51:58.311 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:52:02.271 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:52:25.957 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:52:28.520 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:55:16.847 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:55:20.605 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+15:02:19.197 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+19:28:00.897 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:29:14.099 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+19:29:21.375 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+19:29:57.767 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:29:59.895 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+19:30:10.688 ERROR Đã có lỗi xảy ra: Cannot send an empty message. 
+19:32:57.904 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:32:59.340 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+20:17:13.355 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:17:43.120 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+20:17:52.330 ERROR Đã có lỗi xảy ra: Cannot target a non-object.. 
+20:20:31.528 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:20:32.773 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+20:20:42.292 ERROR Đã có lỗi xảy ra: Cannot target a non-object.. 
+20:21:29.875 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:21:31.121 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+20:21:51.984 ERROR Đã có lỗi xảy ra: Request failed with status code 503. 
+20:23:53.738 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:23:54.884 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+20:25:48.991 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:25:50.152 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+20:25:53.432 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'id'). 
+20:25:54.031 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'id'). 
+20:25:54.603 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'id'). 
+20:27:06.074 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:27:07.243 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+20:27:11.727 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'id'). 
+20:27:14.792 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'id'). 
+20:27:43.480 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'id'). 
+20:27:47.230 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:27:48.354 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+20:29:54.184 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:29:55.452 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+20:30:46.927 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:30:48.129 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+20:32:15.977 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:32:17.133 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+20:35:56.459 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:35:57.747 INFO  c Loading event(s) -=-=-=-=-=-=-= 

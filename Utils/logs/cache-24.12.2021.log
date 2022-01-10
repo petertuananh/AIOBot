@@ -1,0 +1,535 @@
+00:01:33.499 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+00:05:01.219 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+00:05:06.466 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+00:05:18.340 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+00:23:44.706 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+00:32:19.552 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+00:33:09.662 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+00:34:50.886 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+00:35:34.776 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+00:51:43.359 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+01:01:29.539 ERROR Have an error: Unhandled error. (Queue {
+  tracks: [],
+  previousTracks: [
+    Track {
+      id: '923741939461914644',
+      title: 'Top 100 Christmas Songs of All Time 🎄 3 Hour Christmas Music Playlist',
+      author: 'Timeless Music - Best Christmas Songs',
+      url: 'https://www.youtube.com/watch?v=dfTCObc5BuE',
+      thumbnail: 'https://i.ytimg.com/vi/dfTCObc5BuE/maxresdefault.jpg',
+      duration: '02:58:15',
+      views: 12638533,
+      requestedBy: [User],
+      playlist: undefined
+    },
+    Track {
+      id: '923741939461914644',
+      title: 'Top 100 Christmas Songs of All Time 🎄 3 Hour Christmas Music Playlist',
+      author: 'Timeless Music - Best Christmas Songs',
+      url: 'https://www.youtube.com/watch?v=dfTCObc5BuE',
+      thumbnail: 'https://i.ytimg.com/vi/dfTCObc5BuE/maxresdefault.jpg',
+      duration: '02:58:15',
+      views: 12638533,
+      requestedBy: [User],
+      playlist: undefined
+    },
+    Track {
+      id: '923741996093407254',
+      title: 'Feliz Navidad',
+      author: 'José Feliciano',
+      url: 'https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId',
+      thumbnail: 'https://i.scdn.co/image/a46f5c5745a14fbf826186da8da5ecc3',
+      duration: '03:02',
+      views: 0,
+      requestedBy: [User],
+      playlist: undefined
+    }
+  ],
+  playing: false,
+  metadata: <ref *1> TextChannel {
+    type: 'GUILD_TEXT',
+    deleted: false,
+    guild: Guild {
+      id: '888405109007056957',
+      name: 'Choose your future',
+      icon: 'd9b49f5813044f6411f11ad11e246cb1',
+      features: [Array],
+      commands: [GuildApplicationCommandManager],
+      members: [GuildMemberManager],
+      channels: [GuildChannelManager],
+      bans: [GuildBanManager],
+      roles: [RoleManager],
+      presences: PresenceManager {},
+      voiceStates: [VoiceStateManager],
+      stageInstances: [StageInstanceManager],
+      invites: [GuildInviteManager],
+      deleted: false,
+      available: true,
+      shardId: 0,
+      splash: null,
+      banner: null,
+      description: null,
+      verificationLevel: 'LOW',
+      vanityURLCode: null,
+      nsfwLevel: 'DEFAULT',
+      discoverySplash: null,
+      memberCount: 23,
+      large: false,
+      applicationId: null,
+      afkTimeout: 300,
+      afkChannelId: null,
+      systemChannelId: '888405109007056960',
+      premiumTier: 'TIER_1',
+      premiumSubscriptionCount: 2,
+      explicitContentFilter: 'ALL_MEMBERS',
+      mfaLevel: 'NONE',
+      joinedTimestamp: 1638325867101,
+      defaultMessageNotifications: 'ONLY_MENTIONS',
+      systemChannelFlags: [SystemChannelFlags],
+      maximumMembers: 250000,
+      maximumPresences: null,
+      approximateMemberCount: null,
+      approximatePresenceCount: null,
+      vanityURLUses: null,
+      rulesChannelId: '916292009860399114',
+      publicUpdatesChannelId: '916292009860399114',
+      preferredLocale: 'en-US',
+      ownerId: '660379664283336705',
+      emojis: [GuildEmojiManager],
+      stickers: [GuildStickerManager]
+    },
+    guildId: '888405109007056957',
+    parentId: '913616198544003082',
+    permissionOverwrites: PermissionOverwriteManager { channel: [Circular *1] },
+    messages: MessageManager { channel: [Circular *1] },
+    threads: ThreadManager { channel: [Circular *1] },
+    nsfw: false,
+    id: '918651853846233141',
+    name: 'chat',
+    rawPosition: 9,
+    topic: null,
+    lastMessageId: '923742141920968775',
+    lastPinTimestamp: 1640247213000,
+    rateLimitPerUser: 0
+  },
+  repeatMode: 0,
+  id: '923741939461914645',
+  _streamTime: 0,
+  _cooldownsTimeout: Collection(0) [Map] {},
+  _activeFilters: [],
+  _filtersUpdate: undefined,
+  player: Player {
+    _events: [Object: null prototype] {},
+    _eventsCount: 0,
+    _maxListeners: undefined,
+    options: {
+      autoRegisterExtractor: true,
+      ytdlOptions: [Object],
+      connectionTimeout: 20000
+    },
+    queues: Collection(0) [Map] {},
+    voiceUtils: VoiceUtils { cache: Collection(0) [Map] {} },
+    extractors: Collection(0) [Map] {},
+    client: Client {
+      _events: [Object: null prototype],
+      _eventsCount: 15,
+      _maxListeners: 11,
+      options: [Object],
+      rest: [RESTManager],
+      _cleanups: [Set],
+      _finalizers: FinalizationRegistry {},
+      ws: [WebSocketManager],
+      actions: [ActionsManager],
+      voice: [ClientVoiceManager],
+      shard: null,
+      users: UserManager {},
+      guilds: GuildManager {},
+      channels: ChannelManager {},
+      presence: [ClientPresence],
+      user: [ClientUser],
+      application: [ClientApplication],
+      readyAt: 2021-12-23T23:02:07.098Z,
+      commands: [Collection [Map]],
+      aliases: [Collection [Map]],
+      categories: [Array],
+      cooldowns: Collection(0) [Map] {},
+      logger: [Object],
+      emoji: [Object],
+      delay: [Function (anonymous)],
+      embedCollection: Collection(0) [Map] {},
+      interactions: Collection(0) [Map] {},
+      giveawaysManager: [GiveawaysManager],
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false
+  },
+  guild: <ref *2> Guild {
+    id: '888405109007056957',
+    name: 'Choose your future',
+    icon: 'd9b49f5813044f6411f11ad11e246cb1',
+    features: [
+      'THREE_DAY_THREAD_ARCHIVE',
+      'NEWS',
+      'INVITE_SPLASH',
+      'COMMUNITY',
+      'ANIMATED_ICON'
+    ],
+    commands: GuildApplicationCommandManager {
+      permissions: [ApplicationCommandPermissionsManager],
+      guild: [Circular *2]
+    },
+    members: GuildMemberManager { guild: [Circular *2] },
+    channels: GuildChannelManager { guild: [Circular *2] },
+    bans: GuildBanManager { guild: [Circular *2] },
+    roles: RoleManager { guild: [Circular *2] },
+    presences: PresenceManager {},
+    voiceStates: VoiceStateManager { guild: [Circular *2] },
+    stageInstances: StageInstanceManager { guild: [Circular *2] },
+    invites: GuildInviteManager { guild: [Circular *2] },
+    deleted: false,
+    available: true,
+    shardId: 0,
+    splash: null,
+    banner: null,
+    description: null,
+    verificationLevel: 'LOW',
+    vanityURLCode: null,
+    nsfwLevel: 'DEFAULT',
+    discoverySplash: null,
+    memberCount: 23,
+    large: false,
+    applicationId: null,
+    afkTimeout: 300,
+    afkChannelId: null,
+    systemChannelId: '888405109007056960',
+    premiumTier: 'TIER_1',
+    premiumSubscriptionCount: 2,
+    explicitContentFilter: 'ALL_MEMBERS',
+    mfaLevel: 'NONE',
+    joinedTimestamp: 1638325867101,
+    defaultMessageNotifications: 'ONLY_MENTIONS',
+    systemChannelFlags: SystemChannelFlags { bitfield: 0 },
+    maximumMembers: 250000,
+    maximumPresences: null,
+    approximateMemberCount: null,
+    approximatePresenceCount: null,
+    vanityURLUses: null,
+    rulesChannelId: '916292009860399114',
+    publicUpdatesChannelId: '916292009860399114',
+    preferredLocale: 'en-US',
+    ownerId: '660379664283336705',
+    emojis: GuildEmojiManager { guild: [Circular *2] },
+    stickers: GuildStickerManager { guild: [Circular *2] }
+  },
+  options: {
+    leaveOnEnd: true,
+    leaveOnStop: true,
+    leaveOnEmpty: true,
+    leaveOnEmptyCooldown: 1000,
+    autoSelfDeaf: true,
+    ytdlOptions: { quality: 'highestaudio', highWaterMark: 33554432 },
+    initialVolume: 100,
+    bufferingTimeout: 3000
+  },
+  connection: StreamDispatcher {
+    _events: [Object: null prototype] {
+      error: [Function (anonymous)],
+      debug: [Function (anonymous)],
+      start: [Function (anonymous)],
+      finish: [Function (anonymous)]
+    },
+    _eventsCount: 4,
+    _maxListeners: undefined,
+    connectionTimeout: 20000,
+    readyLock: false,
+    voiceConnection: VoiceConnection {
+      _events: [Object: null prototype],
+      _eventsCount: 1,
+      _maxListeners: undefined,
+      debug: null,
+      rejoinAttempts: 0,
+      receiver: [VoiceReceiver],
+      onNetworkingClose: [Function: bound onNetworkingClose],
+      onNetworkingStateChange: [Function: bound onNetworkingStateChange],
+      onNetworkingError: [Function: bound onNetworkingError],
+      onNetworkingDebug: [Function: bound onNetworkingDebug],
+      _state: [Object],
+      packets: [Object],
+      joinConfig: [Object],
+      [Symbol(kCapture)]: false
+    },
+    audioPlayer: AudioPlayer {
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      subscribers: [],
+      _state: [Object],
+      behaviors: [Object],
+      debug: [Function (anonymous)],
+      [Symbol(kCapture)]: false
+    },
+    channel: VoiceChannel {
+      type: 'GUILD_VOICE',
+      deleted: false,
+      guild: [Guild],
+      guildId: '888405109007056957',
+      parentId: '913616198544003082',
+      permissionOverwrites: [PermissionOverwriteManager],
+      id: '920665447140044910',
+      name: 'D1',
+      rawPosition: 7,
+      rtcRegion: null,
+      bitrate: 64000,
+      userLimit: 0
+    },
+    paused: false,
+    audioResource: AudioResource {
+      playbackDuration: 0,
+      started: false,
+      silenceRemaining: -1,
+      edges: [Array],
+      playStream: [Encoder],
+      metadata: [Track],
+      silencePaddingFrames: 5,
+      volume: [VolumeTransformer],
+      encoder: [Encoder]
+    },
+    [Symbol(kCapture)]: false
+  }
+}). 
+01:03:35.483 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+01:03:49.167 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+01:03:59.092 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+01:04:19.361 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+01:11:37.745 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+01:26:16.056 ERROR Have an error: Cannot read properties of null (reading 'broadcastEval'). 
+01:33:49.344 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+01:41:30.986 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+01:52:26.987 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:52:31.447 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+01:55:23.135 ERROR Have an error: Missing Access. 
+02:01:59.930 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+02:02:22.794 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+02:02:30.237 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+02:02:45.963 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+02:02:56.124 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+02:03:21.527 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+02:03:31.707 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+02:04:27.936 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+02:04:59.797 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+02:05:09.803 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+02:05:15.508 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+02:24:33.080 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+02:24:38.572 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+02:25:39.718 ERROR Have an error: Cannot read properties of undefined (reading 'category'). 
+02:25:57.215 ERROR Have an error: Cannot read properties of undefined (reading 'category'). 
+02:26:45.802 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+02:26:47.654 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+02:27:15.160 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+02:27:45.434 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+02:27:47.236 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+02:29:14.670 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+02:29:16.438 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+02:32:14.526 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+02:32:16.283 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+02:32:24.129 ERROR Have an error: Missing Access. 
+02:32:26.929 ERROR Have an error: Missing Access. 
+02:32:31.593 ERROR Have an error: Missing Access. 
+02:32:32.967 ERROR Have an error: Missing Access. 
+02:32:34.501 ERROR Have an error: Missing Access. 
+02:32:37.627 ERROR Have an error: Missing Access. 
+02:32:45.874 ERROR Have an error: Missing Access. 
+02:32:48.959 ERROR Have an error: Missing Access. 
+02:32:53.568 ERROR Have an error: Missing Access. 
+02:34:04.253 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+02:34:05.758 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+02:35:11.717 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+02:35:13.770 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+02:36:29.236 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+02:36:31.020 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+03:25:15.145 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+03:25:20.707 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+03:33:31.699 ERROR Have an error: Missing Access. 
+03:33:45.554 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+03:33:47.012 ERROR Have an error: Missing Access. 
+03:33:48.420 ERROR Have an error: Missing Access. 
+03:33:55.812 ERROR Have an error: Missing Access. 
+03:34:02.980 ERROR Have an error: Missing Access. 
+03:34:04.479 ERROR Have an error: Missing Access. 
+03:34:10.573 ERROR Have an error: Missing Access. 
+03:34:15.456 ERROR Have an error: Missing Access. 
+03:34:15.802 ERROR Have an error: Missing Access. 
+03:34:21.178 ERROR Have an error: Missing Access. 
+03:34:27.547 ERROR Have an error: Missing Access. 
+03:34:29.942 ERROR Have an error: Missing Access. 
+03:34:37.047 ERROR Have an error: Missing Access. 
+03:34:43.068 ERROR Have an error: Missing Access. 
+03:34:53.356 ERROR Have an error: Missing Access. 
+03:34:57.775 ERROR Have an error: Missing Access. 
+03:35:01.402 ERROR Have an error: Missing Access. 
+03:35:03.847 ERROR Have an error: Missing Access. 
+03:35:05.424 ERROR Have an error: Missing Access. 
+03:35:17.709 ERROR Have an error: Missing Access. 
+03:35:19.507 ERROR Have an error: Missing Access. 
+03:35:32.416 ERROR Have an error: Missing Access. 
+03:35:39.120 ERROR Have an error: Missing Access. 
+03:35:40.372 ERROR Have an error: Missing Access. 
+03:35:51.056 ERROR Have an error: Missing Access. 
+03:35:58.987 ERROR Have an error: Missing Access. 
+03:36:03.132 ERROR Have an error: Missing Access. 
+03:36:05.602 ERROR Have an error: Missing Access. 
+03:36:13.411 ERROR Have an error: Missing Access. 
+03:36:19.877 ERROR Have an error: Missing Access. 
+03:36:23.187 ERROR Have an error: Missing Access. 
+03:36:23.454 ERROR Have an error: Missing Access. 
+03:36:24.133 ERROR Have an error: Missing Access. 
+03:36:41.535 ERROR Have an error: Missing Access. 
+03:36:47.106 ERROR Have an error: Missing Access. 
+03:37:02.187 ERROR Have an error: Missing Access. 
+03:37:05.048 ERROR Have an error: Missing Access. 
+03:37:09.235 ERROR Have an error: Missing Access. 
+03:37:25.859 ERROR Have an error: Missing Access. 
+03:37:35.673 ERROR Have an error: Missing Access. 
+03:37:39.461 ERROR Have an error: Missing Access. 
+03:37:45.951 ERROR Have an error: Missing Access. 
+03:37:50.152 ERROR Have an error: Missing Access. 
+03:37:51.113 ERROR Have an error: Missing Access. 
+03:38:10.535 ERROR Have an error: Missing Access. 
+03:38:12.432 ERROR Have an error: Missing Access. 
+03:38:13.650 ERROR Have an error: Missing Access. 
+03:38:14.269 ERROR Have an error: Missing Access. 
+03:38:16.241 ERROR Have an error: Missing Access. 
+03:38:27.757 ERROR Have an error: Missing Access. 
+03:38:34.036 ERROR Have an error: Missing Access. 
+03:38:55.176 ERROR Have an error: Missing Access. 
+03:39:01.807 ERROR Have an error: Missing Access. 
+03:39:04.135 ERROR Have an error: Missing Access. 
+03:39:07.806 ERROR Have an error: Missing Access. 
+03:39:09.162 ERROR Have an error: Missing Access. 
+03:39:09.348 ERROR Have an error: Missing Access. 
+03:39:24.388 ERROR Have an error: Missing Access. 
+03:39:25.146 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+03:39:32.351 ERROR Have an error: Missing Access. 
+03:39:32.522 ERROR Have an error: Missing Access. 
+03:39:36.035 ERROR Have an error: Missing Access. 
+03:39:37.705 ERROR Have an error: Missing Access. 
+03:39:39.150 ERROR Have an error: Missing Access. 
+03:39:41.657 ERROR Have an error: Missing Access. 
+03:39:42.267 ERROR Have an error: Missing Access. 
+03:39:45.647 ERROR Have an error: Missing Access. 
+03:39:51.129 ERROR Have an error: Missing Access. 
+03:39:51.434 ERROR Have an error: Missing Access. 
+03:39:53.157 ERROR Have an error: Missing Access. 
+03:39:53.733 ERROR Have an error: Missing Access. 
+03:39:59.170 ERROR Have an error: Missing Access. 
+03:40:03.634 ERROR Have an error: Missing Access. 
+03:40:05.150 ERROR Have an error: Missing Access. 
+03:40:07.900 ERROR Have an error: Missing Access. 
+03:40:13.575 ERROR Have an error: Missing Access. 
+03:40:17.514 ERROR Have an error: Missing Access. 
+03:40:19.175 ERROR Have an error: Missing Access. 
+03:40:22.501 ERROR Have an error: Missing Access. 
+03:40:24.468 ERROR Have an error: Missing Access. 
+03:40:24.967 ERROR Have an error: Missing Access. 
+03:40:25.397 ERROR Have an error: Missing Access. 
+03:40:27.264 ERROR Have an error: Missing Access. 
+03:40:34.421 ERROR Have an error: Missing Access. 
+03:40:39.189 ERROR Have an error: Missing Access. 
+03:40:44.024 ERROR Have an error: Missing Access. 
+03:40:50.435 ERROR Have an error: Missing Access. 
+03:41:02.258 ERROR Have an error: Missing Access. 
+03:41:02.316 ERROR Have an error: Missing Access. 
+03:41:07.594 ERROR Have an error: Missing Access. 
+03:41:15.195 ERROR Have an error: Missing Access. 
+03:41:36.497 ERROR Have an error: Missing Access. 
+03:41:37.472 ERROR Have an error: Missing Access. 
+03:41:39.347 ERROR Have an error: Missing Access. 
+03:41:47.299 ERROR Have an error: Missing Access. 
+03:41:49.053 ERROR Have an error: Missing Access. 
+03:41:49.066 ERROR Have an error: Missing Access. 
+03:41:53.931 ERROR Have an error: Missing Access. 
+03:42:06.297 ERROR Have an error: Missing Access. 
+03:42:09.718 ERROR Have an error: Missing Access. 
+03:42:11.069 ERROR Have an error: Missing Access. 
+03:42:13.321 ERROR Have an error: Missing Access. 
+03:42:25.060 ERROR Have an error: Missing Access. 
+03:42:27.465 ERROR Have an error: Missing Access. 
+03:42:40.172 ERROR Have an error: Missing Access. 
+03:42:40.853 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+03:42:43.788 ERROR Have an error: Missing Access. 
+03:42:49.138 ERROR Have an error: Missing Access. 
+03:42:55.271 ERROR Have an error: Missing Access. 
+03:42:57.728 ERROR Have an error: Missing Access. 
+03:42:59.673 ERROR Have an error: Missing Access. 
+03:43:00.410 ERROR Have an error: Missing Access. 
+03:43:07.749 ERROR Have an error: Missing Access. 
+03:43:10.331 ERROR Have an error: Missing Access. 
+03:43:11.130 ERROR Have an error: Missing Access. 
+03:43:18.240 ERROR Have an error: Missing Access. 
+03:43:26.466 ERROR Have an error: Missing Access. 
+03:43:29.574 ERROR Have an error: Missing Access. 
+03:43:33.196 ERROR Have an error: Missing Access. 
+03:43:33.332 ERROR Have an error: Missing Access. 
+03:43:44.974 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+03:43:57.037 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+03:44:20.447 ERROR Have an error: Missing Access. 
+03:44:21.792 ERROR Have an error: Missing Access. 
+03:44:35.316 ERROR Have an error: Missing Access. 
+03:45:19.366 ERROR Have an error: Missing Access. 
+03:45:19.954 ERROR Have an error: Missing Access. 
+03:45:20.067 ERROR Have an error: Missing Access. 
+03:45:22.035 ERROR Have an error: Missing Access. 
+03:45:27.228 ERROR Have an error: Missing Access. 
+03:45:29.927 ERROR Have an error: Missing Access. 
+03:45:32.488 ERROR Have an error: Missing Access. 
+03:45:37.375 ERROR Have an error: Missing Access. 
+03:45:53.436 ERROR Have an error: Missing Access. 
+03:46:05.213 ERROR Have an error: Missing Access. 
+03:46:08.587 ERROR Have an error: Missing Access. 
+03:46:11.499 ERROR Have an error: Missing Access. 
+03:46:25.200 ERROR Have an error: Missing Access. 
+03:46:31.036 ERROR Have an error: Missing Access. 
+03:46:39.056 ERROR Have an error: Missing Access. 
+03:46:39.993 ERROR Have an error: Missing Access. 
+03:46:42.250 ERROR Have an error: Missing Access. 
+03:46:45.160 ERROR Have an error: Missing Access. 
+03:46:54.014 ERROR Have an error: Missing Access. 
+03:46:54.088 ERROR Have an error: Missing Access. 
+03:46:54.195 ERROR Have an error: Missing Access. 
+03:46:54.307 ERROR Have an error: Missing Access. 
+03:46:54.571 ERROR Have an error: Missing Access. 
+03:46:55.271 ERROR Have an error: Missing Access. 
+03:46:57.204 ERROR Have an error: Missing Access. 
+03:46:57.499 ERROR Have an error: Missing Access. 
+03:47:05.291 ERROR Have an error: Missing Access. 
+03:47:07.508 ERROR Have an error: Missing Access. 
+03:47:17.387 ERROR Have an error: Missing Access. 
+03:47:25.536 ERROR Have an error: Missing Access. 
+03:47:31.339 ERROR Have an error: Missing Access. 
+03:47:33.151 ERROR Have an error: Missing Access. 
+03:47:44.005 ERROR Have an error: Missing Access. 
+03:47:47.256 ERROR Have an error: Missing Access. 
+03:47:49.105 ERROR Have an error: Missing Access. 
+03:48:09.467 ERROR Have an error: Missing Access. 
+03:48:18.193 ERROR Have an error: Missing Access. 
+03:48:29.134 ERROR Have an error: Missing Access. 
+03:48:34.397 ERROR Have an error: Missing Access. 
+03:48:49.945 ERROR Have an error: Missing Access. 
+03:48:55.925 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+03:49:00.480 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+03:51:40.010 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+03:55:00.375 ERROR Have an error: Cannot read properties of null (reading 'permissions'). 
+04:06:23.579 ERROR Have an error: Request failed with status code 400. 
+04:19:03.629 ERROR Have an error: 401: Unauthorized. 
+04:19:03.637 ERROR Have an error: 401: Unauthorized. 
+04:19:03.874 ERROR Have an error: 401: Unauthorized. 
+04:19:04.201 ERROR Have an error: 401: Unauthorized. 
+04:19:04.388 ERROR Have an error: 401: Unauthorized. 
+04:19:04.444 ERROR Have an error: 401: Unauthorized. 
+04:19:04.690 ERROR Have an error: 401: Unauthorized. 
+04:19:04.892 ERROR Have an error: 401: Unauthorized. 
+04:58:22.366 ERROR Have an error: 401: Unauthorized. 
+04:58:22.606 ERROR Have an error: 401: Unauthorized. 
+06:00:49.744 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:00:56.158 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+06:00:56.863 ERROR An invalid token was provided. 

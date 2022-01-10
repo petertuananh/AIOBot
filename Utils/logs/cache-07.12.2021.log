@@ -1,0 +1,98 @@
+09:14:36.574 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:15:12.773 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:15:17.104 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:17.107 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:17.110 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:17.112 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:17.326 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:17.926 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:18.150 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:18.435 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:18.692 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:18.950 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:37.576 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:15:40.323 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:15:43.611 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:43.614 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:43.617 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:43.620 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:43.805 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:43.922 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:44.029 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:44.146 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:44.308 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:44.403 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:44.554 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:45.003 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:45.353 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:45.647 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:46.071 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:46.582 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:46.812 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:47.047 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:47.282 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:47.496 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:47.730 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:47.998 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:48.245 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:48.524 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:48.870 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:49.182 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:49.450 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:50.050 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:50.285 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:50.498 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:50.755 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+09:15:54.289 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:15:56.705 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:16:44.014 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'send'). 
+09:17:24.294 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'send'). 
+09:18:27.558 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'send'). 
+09:19:57.550 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:20:13.371 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:32:19.502 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+09:52:19.294 ERROR Đã có lỗi xảy ra: request to https://discord.com/api/v9/channels/917604374514118657 failed, reason: write ECONNABORTED. 
+11:12:00.703 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:12:14.458 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:44:40.477 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:44:42.229 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:47:24.194 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:47:26.131 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:47:40.722 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:47:42.494 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:49:43.303 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:49:45.357 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:50:32.864 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+11:50:36.756 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+13:22:45.350 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:23:33.981 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:24:43.838 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:24:46.019 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:24:59.107 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+13:24:59.111 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+13:27:14.343 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:27:16.458 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:27:55.128 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+13:27:55.132 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+13:27:56.740 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+13:27:56.743 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+13:29:31.452 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:29:33.374 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:37:53.410 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:37:55.852 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:38:11.839 ERROR Đã có lỗi xảy ra: Cannot target a non-object.. 
+13:38:28.283 ERROR Đã có lỗi xảy ra: The operation was aborted. 
+13:39:16.876 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:39:18.990 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:56:45.253 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:57:02.072 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:57:03.743 ERROR Privileged intent provided is not enabled or whitelisted. 
+20:33:13.407 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:33:28.808 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:33:31.648 ERROR Privileged intent provided is not enabled or whitelisted. 
+20:33:44.118 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:33:46.913 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:34:47.980 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:34:49.958 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:36:24.046 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:36:26.021 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 

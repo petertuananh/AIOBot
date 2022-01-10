@@ -1,0 +1,65 @@
+01:15:43.316 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:15:45.700 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+01:15:53.428 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:15:55.631 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+01:16:02.651 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:16:05.110 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+01:16:12.467 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:16:14.826 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+01:16:18.950 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:16:20.966 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+01:17:25.130 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:17:27.490 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+01:18:35.229 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:18:37.532 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+01:18:57.649 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:18:59.984 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+01:50:59.753 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:51:02.174 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+02:42:13.957 ERROR Đã có lỗi xảy ra: Cannot destroy VoiceConnection - it has already been destroyed. 
+02:54:12.614 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+02:54:12.627 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+02:59:34.618 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+02:59:34.621 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+03:34:49.751 ERROR Đã có lỗi xảy ra: Cannot destroy VoiceConnection - it has already been destroyed. 
+04:25:31.978 ERROR Đã có lỗi xảy ra: Cannot destroy VoiceConnection - it has already been destroyed. 
+06:41:13.427 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'id'). 
+08:16:32.050 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:16:34.592 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:17:37.547 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "fdgdf" is not supported. Scheme must be one of ('http', 'https').. 
+08:21:14.591 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "fdgdf" is not supported. Scheme must be one of ('http', 'https').. 
+08:30:13.834 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:30:16.207 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+11:49:41.289 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:49:43.657 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:08:44.734 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'name'). 
+12:08:56.567 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:08:58.646 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:13:54.265 ERROR Đã có lỗi xảy ra: Invalid bitfield flag or number: ADMINSTRATOR.. 
+12:14:09.155 ERROR Đã có lỗi xảy ra: Invalid bitfield flag or number: ADMINSTRATOR.. 
+12:14:38.957 ERROR Đã có lỗi xảy ra: Invalid bitfield flag or number: ADMINSTRATOR.. 
+12:21:58.886 ERROR Đã có lỗi xảy ra: Request failed with status code 400. 
+12:44:01.713 ERROR Đã có lỗi xảy ra: Request failed with status code 400. 
+12:46:18.402 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:46:21.950 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:49:23.449 ERROR Đã có lỗi xảy ra: connect ETIMEDOUT 104.21.95.160:443. 
+12:49:46.029 ERROR Đã có lỗi xảy ra: Request failed with status code 400. 
+12:50:04.438 ERROR Đã có lỗi xảy ra: read ECONNRESET. 
+12:55:26.021 ERROR Đã có lỗi xảy ra: Unknown interaction. 
+13:09:43.272 ERROR Đã có lỗi xảy ra: Request failed with status code 400. 
+13:11:47.414 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:11:49.413 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:20:22.923 ERROR Đã có lỗi xảy ra: Cannot destroy VoiceConnection - it has already been destroyed. 
+13:28:00.896 ERROR Đã có lỗi xảy ra: socket hang up. 
+14:41:13.510 ERROR Đã có lỗi xảy ra: Request failed with status code 400. 
+14:41:59.982 ERROR Đã có lỗi xảy ra: Request failed with status code 400. 
+14:42:59.604 ERROR Đã có lỗi xảy ra: Request failed with status code 400. 
+14:43:46.045 ERROR Đã có lỗi xảy ra: Request failed with status code 400. 
+14:48:33.804 ERROR Đã có lỗi xảy ra: Request failed with status code 400. 
+15:29:07.808 ERROR Đã có lỗi xảy ra: Cannot access 'feedback' before initialization. 
+16:00:12.767 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:00:16.294 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:11:16.092 ERROR Đã có lỗi xảy ra: Unknown interaction. 
+

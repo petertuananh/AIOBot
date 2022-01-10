@@ -1,0 +1,85 @@
+01:08:37.448 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:08:40.049 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+01:15:35.081 ERROR Đã có lỗi xảy ra: The operation was aborted. 
+01:15:54.809 ERROR Đã có lỗi xảy ra: Cannot destroy VoiceConnection - it has already been destroyed. 
+01:16:04.792 ERROR Đã có lỗi xảy ra: The operation was aborted. 
+01:16:36.753 ERROR Đã có lỗi xảy ra: The operation was aborted. 
+01:17:24.552 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:17:27.031 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+01:18:20.631 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:18:23.050 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+03:21:22.711 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+03:21:25.246 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+03:22:04.500 ERROR Đã có lỗi xảy ra: The operation was aborted. 
+07:48:56.995 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:49:00.022 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:19:34.599 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+08:37:48.290 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+09:30:45.506 ERROR Đã có lỗi xảy ra: Unknown Message. 
+09:58:51.973 ERROR Đã có lỗi xảy ra: Unknown Message. 
+11:33:06.981 ERROR Đã có lỗi xảy ra: Unknown Message. 
+11:53:40.851 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'name'). 
+12:00:44.128 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:00:46.449 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:19:01.791 ERROR Đã có lỗi xảy ra: Invalid Form Body
+name: Must be between 2 and 32 in length. String value did not match validation regex.. 
+13:19:55.162 ERROR Đã có lỗi xảy ra: Invalid Form Body
+name: Must be between 2 and 32 in length. String value did not match validation regex.. 
+13:20:04.269 ERROR Đã có lỗi xảy ra: Invalid Form Body
+name: Must be between 2 and 32 in length. String value did not match validation regex.. 
+13:29:07.948 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+13:29:27.318 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+13:29:54.728 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+13:30:07.003 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+13:30:52.619 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+13:35:54.827 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:35:57.232 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:47:40.213 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:47:42.369 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:49:46.052 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:49:48.331 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:53:58.575 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:54:00.628 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:54:52.614 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:54:54.693 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:56:04.526 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:56:06.788 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:01:22.834 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:01:25.068 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:17:28.257 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:17:30.674 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:17:51.266 ERROR Đã có lỗi xảy ra: MessageActionRow is not defined. 
+16:18:07.273 ERROR Đã có lỗi xảy ra: MessageActionRow is not defined. 
+16:18:14.724 ERROR Đã có lỗi xảy ra: MessageActionRow is not defined. 
+16:20:17.946 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:20:20.346 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:20:26.942 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+16:20:54.089 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+16:21:35.688 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+16:22:48.554 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+16:24:16.065 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+16:28:30.885 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+16:29:32.665 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+16:31:01.894 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+16:31:48.146 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+16:33:16.414 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+16:37:14.279 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+16:39:38.989 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+16:41:08.701 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+23:23:30.327 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+23:24:35.368 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+23:25:45.017 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+23:26:16.926 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+23:27:03.147 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+23:28:13.060 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+23:29:36.521 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+23:34:45.609 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+23:35:34.550 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+23:35:57.168 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+23:42:49.516 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+23:45:31.532 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+23:46:22.546 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+23:48:53.796 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+23:49:39.325 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+23:50:52.673 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+

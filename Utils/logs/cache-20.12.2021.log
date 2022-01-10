@@ -1,0 +1,445 @@
+06:56:31.324 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:56:37.731 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+06:56:54.448 ERROR Have an error: Cannot read properties of null (reading 'broadcastEval'). 
+06:57:12.211 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:57:13.674 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+06:57:45.211 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:57:46.698 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+06:57:50.722 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:57:52.159 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+06:57:56.219 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:57:57.665 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+06:58:01.734 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:58:03.222 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:12:50.714 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:12:52.647 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:12:56.201 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:12:57.709 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:13:05.587 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:13:07.140 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:13:14.865 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:13:16.641 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:16:13.933 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:16:15.420 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:16:19.447 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:16:21.188 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:16:24.982 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:16:26.875 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:16:30.483 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:16:32.308 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:16:41.152 ERROR Have an error: toFancyNum is not defined. 
+07:17:45.019 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:17:47.102 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:17:50.539 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:17:52.108 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:18:01.860 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:18:03.626 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:18:07.378 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:18:09.103 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:20:16.036 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:20:17.757 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:20:21.559 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:20:23.086 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:20:27.084 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:20:28.839 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:20:32.588 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:20:34.305 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:23:29.725 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:23:31.940 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:23:35.269 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:23:36.865 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:23:44.642 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:23:46.255 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:23:54.138 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:23:56.052 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:29:01.254 ERROR Have an error: command.run is not a function. 
+07:29:12.807 ERROR Have an error: command.run is not a function. 
+07:29:17.914 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:29:19.763 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:29:23.447 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:29:25.157 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:29:29.006 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:29:30.601 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:29:34.465 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:29:36.038 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:31:42.519 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:31:44.233 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:31:49.181 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:31:50.720 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:31:54.697 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:31:56.205 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:32:00.214 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:32:01.791 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:42:43.040 ERROR Have an error: command.run is not a function. 
+07:49:58.467 ERROR Have an error: command.run is not a function. 
+07:50:02.070 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:50:04.981 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:50:07.548 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:50:09.115 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:50:18.001 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:50:19.519 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:50:30.382 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:50:32.665 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:57:51.634 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:58:10.774 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:58:13.741 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:58:18.116 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:58:20.128 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:58:22.250 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:58:30.103 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:58:32.163 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:58:42.825 ERROR Have an error: Discord is not defined. 
+07:59:58.165 ERROR Have an error: Cannot read properties of undefined (reading 'category'). 
+08:00:08.845 ERROR Have an error: Cannot read properties of undefined (reading 'category'). 
+08:00:14.917 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:00:16.731 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:00:20.438 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:00:22.370 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:00:26.040 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:00:28.218 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:00:31.575 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:00:33.556 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:01:51.535 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:01:53.526 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:01:57.083 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:01:58.798 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:02:02.666 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:02:04.525 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:02:08.160 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:02:09.983 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:03:50.581 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:03:52.260 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:03:56.129 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:03:58.009 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:04:01.648 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:04:03.380 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:04:07.197 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:04:08.948 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:09:15.112 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:09:17.251 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:09:20.769 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:09:23.155 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:09:26.352 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:09:29.658 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:09:31.821 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:09:34.362 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:10:28.867 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:10:30.781 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:10:34.639 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:10:37.044 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:10:39.975 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:10:41.999 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:10:49.160 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:10:51.199 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:29:39.306 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:32:07.851 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:32:18.454 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:32:20.662 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:12:06.969 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:12:23.715 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:12:26.333 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:12:28.695 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:12:38.052 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:12:45.143 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:12:47.052 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:12:48.997 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:17:15.729 ERROR Have an error: Cannot read properties of null (reading 'first'). 
+10:26:10.078 ERROR Have an error: Request failed with status code 522. 
+10:26:22.950 ERROR Have an error: Request failed with status code 522. 
+10:26:25.525 ERROR Have an error: Request failed with status code 522. 
+10:26:33.694 ERROR Have an error: Request failed with status code 522. 
+10:27:18.053 ERROR Have an error: Request failed with status code 522. 
+10:27:25.426 ERROR Have an error: Request failed with status code 522. 
+10:27:31.391 ERROR Have an error: Request failed with status code 522. 
+10:27:40.776 ERROR Have an error: Request failed with status code 522. 
+10:27:55.685 ERROR Have an error: Request failed with status code 522. 
+10:28:03.627 ERROR Have an error: Request failed with status code 522. 
+10:28:22.575 ERROR Have an error: Request failed with status code 522. 
+10:28:28.529 ERROR Have an error: Request failed with status code 522. 
+10:28:46.080 ERROR Have an error: Request failed with status code 522. 
+10:29:11.774 ERROR Have an error: Request failed with status code 522. 
+10:29:14.653 ERROR Have an error: Request failed with status code 522. 
+10:30:43.378 ERROR Have an error: Request failed with status code 522. 
+10:30:53.367 ERROR Have an error: Request failed with status code 522. 
+10:31:10.112 ERROR Have an error: Request failed with status code 522. 
+10:31:11.794 ERROR Have an error: Request failed with status code 522. 
+10:31:18.376 ERROR Have an error: Request failed with status code 522. 
+10:31:26.336 ERROR Have an error: Request failed with status code 522. 
+10:31:42.208 ERROR Have an error: Request failed with status code 522. 
+10:32:05.594 ERROR Have an error: Request failed with status code 522. 
+10:32:19.819 ERROR Have an error: Request failed with status code 522. 
+10:32:24.204 ERROR Have an error: Request failed with status code 522. 
+10:32:25.890 ERROR Have an error: Request failed with status code 522. 
+10:33:59.997 ERROR Have an error: Request failed with status code 522. 
+10:34:13.781 ERROR Have an error: Request failed with status code 522. 
+10:34:32.072 ERROR Have an error: Request failed with status code 522. 
+10:34:47.718 ERROR Have an error: Request failed with status code 522. 
+10:34:51.942 ERROR Have an error: Request failed with status code 522. 
+10:35:11.723 ERROR Have an error: Request failed with status code 522. 
+10:35:41.338 ERROR Have an error: Request failed with status code 522. 
+10:36:35.887 ERROR Have an error: Request failed with status code 522. 
+10:36:58.870 ERROR Have an error: Request failed with status code 522. 
+10:37:20.673 ERROR Have an error: Request failed with status code 522. 
+10:37:23.577 ERROR Have an error: Request failed with status code 522. 
+10:37:28.698 ERROR Have an error: Request failed with status code 522. 
+10:38:03.883 ERROR Have an error: Request failed with status code 522. 
+10:38:05.700 ERROR Have an error: Request failed with status code 522. 
+10:43:57.284 ERROR Have an error: Request failed with status code 522. 
+10:44:01.284 ERROR Have an error: Request failed with status code 522. 
+10:44:50.391 ERROR Have an error: Request failed with status code 522. 
+10:45:44.193 ERROR Have an error: Request failed with status code 522. 
+10:46:10.440 ERROR Have an error: Request failed with status code 522. 
+10:47:58.608 ERROR Have an error: Request failed with status code 522. 
+10:48:08.575 ERROR Have an error: Request failed with status code 522. 
+10:48:12.980 ERROR Have an error: Request failed with status code 522. 
+10:48:31.934 ERROR Have an error: The operation was aborted. 
+10:49:16.637 ERROR Have an error: Request failed with status code 522. 
+10:49:24.487 ERROR Have an error: Request failed with status code 522. 
+10:49:56.082 ERROR Have an error: Request failed with status code 522. 
+10:50:09.894 ERROR Have an error: Request failed with status code 522. 
+10:50:14.188 ERROR Have an error: Request failed with status code 522. 
+10:50:57.613 ERROR Have an error: Request failed with status code 522. 
+10:57:12.873 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:57:22.944 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+11:02:43.659 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:02:47.011 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+11:03:09.095 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:03:11.436 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+11:04:15.080 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:04:16.994 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+11:04:29.984 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:04:31.906 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+11:10:02.742 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:10:04.778 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+11:12:55.804 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+11:12:58.265 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:30:44.422 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:31:24.270 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:31:58.982 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:32:06.623 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:33:08.488 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:33:10.869 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:33:27.777 ERROR Have an error: con is not defined. 
+12:35:43.314 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:35:45.091 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:35:53.778 ERROR Have an error: sql is not defined. 
+12:38:33.778 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:38:35.974 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:40:25.496 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:40:27.446 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:42:25.943 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:42:27.701 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:44:11.547 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:44:13.127 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:44:26.217 ERROR Have an error: Cannot read properties of undefined (reading 'query'). 
+12:46:42.010 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:46:43.727 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:46:54.940 ERROR Have an error: Cannot read properties of undefined (reading 'query'). 
+12:48:53.119 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:48:54.778 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:52:35.091 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:52:36.663 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:54:11.743 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:54:13.342 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+12:56:13.519 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:56:15.414 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:00:28.037 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:00:30.117 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:00:51.503 ERROR Have an error: Cannot read properties of undefined (reading 'query'). 
+13:01:05.501 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:01:07.120 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:01:16.530 ERROR Have an error: Cannot read properties of undefined (reading 'query'). 
+13:06:38.085 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:06:39.766 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:07:02.795 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:07:04.409 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:07:38.203 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:07:39.899 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:21:31.571 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:21:33.460 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:21:56.191 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:22:06.193 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:22:34.416 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:22:36.873 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:22:38.393 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:22:49.325 ERROR Have an error: message is not defined. 
+13:22:49.684 ERROR Have an error: message is not defined. 
+13:23:10.096 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:23:11.612 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:23:19.343 ERROR Have an error: Cannot read properties of undefined (reading 'cache'). 
+13:23:33.883 ERROR Have an error: Cannot read properties of undefined (reading 'cache'). 
+13:24:00.715 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:24:02.209 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:24:10.241 ERROR Have an error: Cannot read properties of undefined (reading 'bot'). 
+13:24:10.612 ERROR Have an error: Cannot read properties of undefined (reading 'bot'). 
+13:24:31.154 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:24:32.656 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:24:43.160 ERROR Have an error: Cannot read properties of undefined (reading 'cache'). 
+13:25:46.178 ERROR Have an error: Cannot read properties of undefined (reading 'cache'). 
+13:26:02.543 ERROR Have an error: Cannot read properties of undefined (reading 'cache'). 
+13:26:20.985 ERROR Have an error: Cannot read properties of undefined (reading 'cache'). 
+13:27:36.420 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:27:38.026 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:27:51.404 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:28:23.877 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:28:25.377 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:29:38.136 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:29:39.774 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:29:47.448 ERROR Have an error: globalcn is not defined. 
+13:30:49.273 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:30:50.920 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:31:24.004 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:32:08.877 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:32:08.888 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:32:08.900 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:32:08.906 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:32:08.913 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:32:08.918 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:32:08.922 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:32:19.780 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:32:24.411 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:33:02.639 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:33:04.328 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:33:19.623 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:35:16.553 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:35:38.333 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:35:46.572 ERROR Have an error: Cannot read properties of undefined (reading 'send'). 
+13:36:20.564 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:36:22.098 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:38:26.993 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:38:28.766 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:38:34.696 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:38:36.559 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:39:10.593 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:39:12.226 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:40:09.917 ERROR Have an error: t is not defined. 
+13:41:04.395 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:41:38.416 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:42:13.007 ERROR Have an error: t is not defined. 
+13:43:14.155 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:43:15.725 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:43:26.053 ERROR Have an error: t is not defined. 
+13:43:57.479 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:43:59.059 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:44:36.298 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:44:37.920 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:45:17.156 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:45:18.805 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:46:40.447 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:46:42.074 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:47:18.627 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:47:20.649 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:48:48.484 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:48:50.471 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:49:42.625 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:49:44.361 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:51:34.158 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:51:35.809 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:52:12.650 ERROR Have an error: welcomeChannel is not defined. 
+13:52:37.251 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:52:39.235 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:52:45.719 ERROR Have an error: welcomeChannel is not defined. 
+13:53:03.902 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:53:05.524 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:54:29.066 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:54:30.706 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:55:22.902 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:55:24.670 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:56:10.296 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:56:12.158 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:56:25.213 ERROR Have an error: Data @ ID: "chat" IS NOT A number.
+FOUND: "891926815482978345"
+EXPECTED: number. 
+13:57:32.847 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:57:34.757 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:57:42.722 ERROR Have an error: Data @ ID: "chat" IS NOT A number.
+FOUND: "891926815482978345"
+EXPECTED: number. 
+13:58:19.707 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:58:21.639 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:00:40.036 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:00:41.951 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:01:03.490 ERROR Have an error: Data @ ID: "chat" IS NOT A number.
+FOUND: "891926815482978345"
+EXPECTED: number. 
+15:32:23.885 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:32:27.166 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+15:34:41.986 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+15:42:36.015 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:42:38.756 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+15:42:42.287 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+15:42:55.673 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+15:43:07.474 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+15:43:13.856 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+15:43:32.880 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+15:43:40.756 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+15:43:54.377 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+15:44:01.193 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+15:44:50.428 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+15:45:34.762 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+15:45:42.602 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+15:52:38.988 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:52:42.021 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+15:52:50.765 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+15:52:56.792 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+15:53:10.644 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+15:53:54.004 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:54:06.417 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+15:57:23.305 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:57:25.512 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:02:14.842 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:02:36.840 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:07:37.657 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:07:39.507 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:08:27.760 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:08:29.645 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:17:52.588 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:17:54.692 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:19:45.846 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+16:19:52.133 ERROR Have an error: Cannot read properties of null (reading 'name'). 
+16:27:08.446 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:27:10.237 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:27:46.756 ERROR Have an error: The operation was aborted. 
+16:30:23.286 ERROR Have an error: MessageEmbed field values must be non-empty strings.. 
+22:37:06.140 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:37:35.911 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:38:01.718 ERROR Have an error: (intermediate value).setTitle(...).setDescription(...).color is not a function. 
+22:39:11.083 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:39:18.587 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:45:38.715 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:45:43.621 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:47:20.170 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:47:21.654 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:50:56.226 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:50:57.741 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:51:33.453 ERROR Have an error: heads is not defined. 
+22:51:56.776 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:51:58.258 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:52:49.381 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:52:50.909 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:52:58.352 ERROR Have an error: user is not defined. 
+22:53:45.728 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:53:47.160 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:56:22.194 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:56:23.637 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:00:24.229 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:00:25.756 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:00:52.159 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:00:53.649 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:02:01.820 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:02:03.271 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:02:26.080 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:02:27.587 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:08:50.692 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:08:52.405 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:09:14.206 ERROR Have an error: tails is not defined. 
+23:09:31.517 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:09:33.043 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:11:18.761 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:11:20.356 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:13:35.546 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:13:37.100 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:16:50.965 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:16:53.167 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:18:06.423 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:18:08.219 INFO  c Loading event(s) -=-=-=-=-=-=-= 

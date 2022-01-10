@@ -1,0 +1,111 @@
+00:05:45.199 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:05:46.925 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:05:56.248 ERROR Have an error: premiumguild is not defined. 
+00:06:31.972 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:06:33.643 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:06:55.834 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:06:57.596 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:08:22.959 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:08:24.752 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:08:53.832 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:08:55.508 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:15:20.909 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:15:22.793 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:23:09.345 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:23:11.283 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:23:49.594 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:23:51.290 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:29:32.669 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:29:34.406 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:30:31.227 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:30:33.031 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:33:43.172 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:33:45.041 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:37:50.280 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:37:52.163 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:38:24.488 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:38:26.456 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:39:02.987 ERROR Have an error: Invalid Form Body
+embeds[0].fields[0].value: Must be 1024 or fewer in length.. 
+00:39:36.895 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:39:38.811 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:40:31.882 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:40:33.695 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:43:24.464 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:43:26.327 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:49:23.020 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:49:24.908 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:52:22.944 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:52:24.785 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:15:07.578 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:15:26.749 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:17:00.882 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:17:02.495 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:17:48.284 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:17:50.533 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:18:18.106 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:18:19.819 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:20:39.396 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:20:41.221 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:21:48.312 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:21:50.233 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:23:07.044 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:23:08.860 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:24:08.973 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:24:10.783 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:25:14.424 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:25:16.304 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:28:15.852 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:28:17.513 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+09:26:04.339 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:26:06.866 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+09:27:24.006 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:27:25.922 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+09:29:44.561 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:29:46.344 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:13:22.956 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:13:41.692 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:13:50.877 ERROR Have an error: getUserBannerUrl is not defined. 
+13:19:31.565 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:19:33.726 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:19:40.976 ERROR Have an error: axios is not defined. 
+13:20:07.441 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:20:08.976 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:20:17.219 ERROR Have an error: user is not defined. 
+13:22:56.739 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:22:58.449 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:23:07.672 ERROR Have an error: user is not defined. 
+13:23:33.509 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:23:35.189 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:23:52.611 ERROR Have an error: user is not defined. 
+13:24:26.664 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:24:28.583 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:26:46.120 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:26:47.983 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:28:03.820 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:28:05.768 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:28:20.693 ERROR Have an error: Cannot read properties of null (reading 'startsWith'). 
+13:29:11.955 ERROR Have an error: Cannot read properties of null (reading 'startsWith'). 
+13:30:10.605 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:30:12.708 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:30:41.818 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:30:43.444 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:31:48.884 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:31:50.991 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:32:01.495 ERROR Have an error: Cannot read properties of null (reading 'startsWith'). 
+13:33:12.774 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:33:14.300 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:35:31.304 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:35:39.113 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:37:53.269 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:38:00.479 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:38:10.610 ERROR Have an error: noEveryOne is not defined. 
+13:39:39.401 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:39:42.985 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:39:53.046 ERROR Have an error: urlb is not defined. 
+13:40:07.659 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:40:11.400 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:58:42.530 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:59:15.716 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:59:43.999 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:59:45.854 INFO  c Loading event(s) -=-=-=-=-=-=-= 

@@ -1,0 +1,894 @@
+01:08:37.448 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:08:40.049 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+01:15:35.081 ERROR Đã có lỗi xảy ra: The operation was aborted. 
+01:15:54.809 ERROR Đã có lỗi xảy ra: Cannot destroy VoiceConnection - it has already been destroyed. 
+01:16:04.792 ERROR Đã có lỗi xảy ra: The operation was aborted. 
+01:16:36.753 ERROR Đã có lỗi xảy ra: The operation was aborted. 
+01:17:24.552 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:17:27.031 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+01:18:20.631 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:18:23.050 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+03:21:22.711 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+03:21:25.246 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+03:22:04.500 ERROR Đã có lỗi xảy ra: The operation was aborted. 
+14:57:33.005 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:57:36.197 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:58:06.034 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:58:08.336 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:01:08.744 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.749 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.752 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.754 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.756 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.757 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.759 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.763 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.765 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.766 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.768 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.770 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.772 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.775 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.780 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.783 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.786 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.788 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.789 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.794 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.795 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.796 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.797 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.799 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.801 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.802 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.803 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.805 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.810 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.811 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.813 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.815 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.817 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.819 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.820 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.825 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.826 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.828 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.829 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.830 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.833 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.835 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.839 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.841 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.846 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.847 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.851 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.859 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.860 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.862 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.865 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.867 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.871 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.874 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.875 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.877 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.879 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.882 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.886 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.888 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.890 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.892 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.893 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.894 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.896 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.900 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.902 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.903 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.905 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.906 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.907 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.908 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.910 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.911 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.915 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.917 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.918 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.920 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.923 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.924 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.925 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.927 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.930 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.932 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.933 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.934 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.936 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.937 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.939 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.941 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.942 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.946 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.947 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.949 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.950 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.952 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.954 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.955 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.957 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.961 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.963 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.964 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.965 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.966 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.969 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.970 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.971 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.977 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.979 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.980 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.982 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.984 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.986 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.988 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.993 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.994 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.996 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.997 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:08.998 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.000 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.003 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.007 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.009 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.011 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.012 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.014 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.015 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.017 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.022 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.024 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.029 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.031 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.037 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.039 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.046 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.048 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.054 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.059 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.066 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.071 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.073 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.076 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.079 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.083 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.087 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.090 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.093 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.095 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.100 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.103 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.108 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.110 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.116 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.118 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.122 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.124 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.127 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.606 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.610 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.612 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.614 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.616 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.623 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.626 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.628 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.631 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.635 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.637 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.638 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.643 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.644 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.647 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.652 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.654 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.657 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.659 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.661 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.665 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.669 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.671 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.673 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.675 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.676 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.679 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.683 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.685 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.686 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.689 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.691 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.693 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.694 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.699 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.701 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.703 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.706 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.708 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.710 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.716 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.718 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.719 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.721 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.723 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.725 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.731 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.733 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.734 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.735 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.739 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.740 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.746 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.748 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.749 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.751 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.753 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.755 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.759 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.762 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.764 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.765 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.767 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.769 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.770 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.774 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.776 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.780 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.782 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.783 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.786 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.789 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.791 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.795 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.797 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.801 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.803 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.808 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.810 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.811 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.813 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.815 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.818 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.823 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.825 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.827 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.830 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.832 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.837 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.839 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.842 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.843 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.845 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.846 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.848 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.852 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.855 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.857 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.858 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.861 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.862 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.864 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.868 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.870 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.872 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.873 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.875 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.877 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.878 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.881 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.885 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.887 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.888 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.890 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.892 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.893 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.895 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.900 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.902 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.904 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.906 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.908 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.910 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.911 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.915 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.918 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.919 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.921 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.923 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.925 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.928 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.932 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.934 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.936 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.938 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.940 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.942 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.946 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.948 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.953 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.955 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.957 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.963 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.965 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.967 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.971 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.973 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.975 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.981 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.983 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.986 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.987 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.994 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.996 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.997 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:09.999 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.004 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.030 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.033 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.044 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.048 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.054 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.058 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.061 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.065 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.074 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.078 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.082 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.088 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.092 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.098 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.104 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.109 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.114 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.119 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.122 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.126 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.135 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.141 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.147 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.151 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.156 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.160 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.167 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.171 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.177 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.182 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.199 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.207 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.214 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.220 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.227 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.233 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.237 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.243 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.248 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.254 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.262 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.268 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.275 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.279 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.283 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.290 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.294 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.297 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.302 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.306 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.309 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.313 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.320 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.326 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.331 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.336 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.340 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.345 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.352 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.357 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.362 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.368 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.373 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.377 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.383 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.386 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.389 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.395 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.397 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.399 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.402 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.404 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.407 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.412 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.414 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.417 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.419 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.422 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.427 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.429 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.432 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.434 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.436 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.442 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.446 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.448 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.451 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.453 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.458 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.460 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.463 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.465 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.467 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.469 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.474 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.476 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.478 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.481 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.482 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.487 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.489 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.491 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.494 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.496 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.498 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.501 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.505 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.508 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.510 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.512 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.515 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.519 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.521 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.524 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.526 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.528 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.530 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.536 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.538 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.539 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.541 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.543 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.548 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.553 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.555 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.557 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.558 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.560 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.565 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.567 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.570 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.572 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.573 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.574 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.578 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.582 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.584 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.586 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.588 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.590 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.593 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.597 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.600 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.603 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.605 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.606 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.611 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.614 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.616 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.619 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.620 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.626 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.628 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.629 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.632 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.635 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:01:10.637 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:32.981 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:06:35.037 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:06:42.620 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.623 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.627 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.630 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.631 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.633 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.634 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.636 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.639 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.640 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.642 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.652 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.659 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.665 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.670 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.675 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.681 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.684 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.687 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.690 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.696 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.698 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.699 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.702 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.704 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.710 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.712 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.714 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.716 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.717 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.719 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.723 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.724 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.726 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.728 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.729 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.731 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.732 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.734 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.738 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.739 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.741 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.743 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.744 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.745 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.747 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.748 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.750 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.754 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.755 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.756 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.758 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.759 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.761 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.762 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.764 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.765 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.767 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.770 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.772 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.773 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.775 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.776 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.777 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.778 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.780 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.782 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.785 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.786 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.788 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.789 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.791 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.793 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.794 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.796 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.797 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.801 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.802 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.804 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.806 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.807 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.809 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.810 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.812 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.816 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.817 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.819 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.820 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.821 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.823 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.824 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.826 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.827 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.831 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.832 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.834 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.835 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.837 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.838 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.839 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.841 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.844 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.847 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.849 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.851 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.852 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.854 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.855 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.856 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.859 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.862 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.864 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.866 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.867 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.869 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.870 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.872 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.874 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.878 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.880 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.881 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.883 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.884 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.886 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.888 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.889 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.894 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.895 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.896 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.897 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.899 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.900 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.901 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.903 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.904 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.908 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.910 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.912 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.914 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.916 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.917 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.919 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.924 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.925 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.927 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.929 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.930 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.931 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.932 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.934 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.935 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.937 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.940 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.941 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.942 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.944 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:06:42.946 ERROR Đã có lỗi xảy ra: channel.createOverwrite is not a function. 
+15:10:19.539 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+15:10:19.960 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+15:19:35.537 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+16:37:40.263 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:37:53.918 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:42:50.577 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:42:56.365 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:47:40.229 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:47:44.333 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:47:54.417 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:47:57.024 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:55:25.826 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:55:28.659 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:56:53.843 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:56:55.678 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+16:59:37.263 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:59:40.529 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:00:13.093 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:00:14.765 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:01:05.234 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:01:06.893 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:01:12.047 ERROR Đã có lỗi xảy ra: Data @ ID: "raid_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+17:01:12.420 ERROR Đã có lỗi xảy ra: Data @ ID: "raid_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+17:01:12.889 ERROR Đã có lỗi xảy ra: Data @ ID: "raid_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+17:01:13.247 ERROR Đã có lỗi xảy ra: Data @ ID: "raid_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+17:01:13.588 ERROR Đã có lỗi xảy ra: Data @ ID: "raid_911244168226013205_786569661231005716" IS NOT A number.
+FOUND: "911244168226013205"
+EXPECTED: number. 
+17:03:33.702 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:03:35.325 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:04:24.171 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:04:25.928 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:04:37.559 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:04:39.253 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:08:52.577 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:08:54.330 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:10:45.121 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:10:50.980 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:10:54.517 ERROR Đã có lỗi xảy ra: message is not defined. 
+17:10:55.027 ERROR Đã có lỗi xảy ra: message is not defined. 
+17:10:55.675 ERROR Đã có lỗi xảy ra: message is not defined. 
+17:10:55.989 ERROR Đã có lỗi xảy ra: message is not defined. 
+17:10:56.338 ERROR Đã có lỗi xảy ra: message is not defined. 
+17:11:00.802 ERROR Đã có lỗi xảy ra: message is not defined. 
+17:11:01.104 ERROR Đã có lỗi xảy ra: message is not defined. 
+17:11:10.187 ERROR Đã có lỗi xảy ra: message is not defined. 
+17:11:10.552 ERROR Đã có lỗi xảy ra: message is not defined. 
+17:11:13.488 ERROR Đã có lỗi xảy ra: message is not defined. 
+17:11:13.846 ERROR Đã có lỗi xảy ra: message is not defined. 
+17:11:14.761 ERROR Đã có lỗi xảy ra: message is not defined. 
+17:11:15.086 ERROR Đã có lỗi xảy ra: message is not defined. 
+17:11:15.957 ERROR Đã có lỗi xảy ra: message is not defined. 
+17:11:16.295 ERROR Đã có lỗi xảy ra: message is not defined. 
+17:12:35.894 ERROR Đã có lỗi xảy ra: message is not defined. 
+17:56:21.866 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:56:27.429 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:57:37.714 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:57:39.605 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+17:57:50.984 ERROR Đã có lỗi xảy ra: stripIndent(...) is not a function. 
+17:59:01.297 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+17:59:13.303 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:02:25.865 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:02:31.228 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:03:25.282 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:03:29.494 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:07:06.340 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:07:09.979 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:21:25.915 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:21:30.369 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:21:50.445 ERROR Đã có lỗi xảy ra: Invalid bitfield flag or number: SEND_MESSAGE.. 
+18:22:53.708 ERROR Đã có lỗi xảy ra: Invalid bitfield flag or number: SEND_MESSAGE.. 
+18:26:57.691 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:27:03.419 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:27:38.401 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:27:44.201 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:28:54.521 ERROR Đã có lỗi xảy ra: Unknown Message. 
+18:31:03.876 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:31:07.912 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:36:58.454 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:37:01.733 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:38:44.355 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:38:47.877 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:42:52.099 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:42:53.825 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:48:45.665 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:48:47.340 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:49:46.919 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:49:48.634 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+18:55:48.917 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+18:55:50.810 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:04:59.746 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:05:01.530 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:21:06.795 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:21:10.102 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:25:22.400 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:25:24.957 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:26:47.930 ERROR Đã có lỗi xảy ra: Invalid bitfield flag or number: SEND_MESSAGE.. 
+19:38:07.416 ERROR Đã có lỗi xảy ra: Invalid bitfield flag or number: SEND_MESSAGE.. 
+19:38:14.571 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:38:17.338 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:38:24.810 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:38:26.807 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:57:24.175 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:57:26.499 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:00:00.733 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:00:02.987 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:00:24.514 ERROR Đã có lỗi xảy ra: MessageEmbed field names must be non-empty strings.. 
+20:01:28.695 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:01:31.003 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:02:45.674 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:02:47.381 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:02:56.420 ERROR Đã có lỗi xảy ra: MessageEmbed field names must be non-empty strings.. 
+20:03:08.912 ERROR Đã có lỗi xảy ra: MessageEmbed field names must be non-empty strings.. 
+20:03:14.525 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:03:50.073 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:03:54.815 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:03:56.533 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:04:28.051 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:04:29.767 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:05:25.076 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:05:27.020 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:08:56.829 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:08:58.504 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:11:07.881 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+20:11:10.512 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+20:19:03.350 ERROR Đã có lỗi xảy ra: Invalid Form Body
+name: Must be between 2 and 32 in length. String value did not match validation regex.. 
+22:15:27.919 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:15:31.338 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:16:09.101 ERROR Đã có lỗi xảy ra: message is not defined. 
+22:16:55.005 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:16:59.119 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:17:11.006 ERROR Đã có lỗi xảy ra: member is not defined. 
+22:19:30.991 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:19:34.015 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:19:46.748 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:19:48.857 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:24:00.480 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:24:02.332 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:28:01.148 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:28:03.538 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:28:42.588 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'setName'). 
+22:30:19.706 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:30:21.956 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:30:37.526 ERROR Đã có lỗi xảy ra: channel is not defined. 
+22:35:09.175 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:35:11.755 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:35:25.184 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'setName'). 
+22:36:31.266 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:36:33.017 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:36:55.848 ERROR Đã có lỗi xảy ra: totalChannel.setName is not a function. 
+22:38:23.251 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:38:24.981 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:42:14.827 ERROR Đã có lỗi xảy ra: tChannel is not defined. 
+22:43:15.764 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:43:17.451 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:43:26.856 ERROR Đã có lỗi xảy ra: member.guild.channels.setName is not a function. 
+22:44:50.536 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:44:52.189 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:45:09.849 ERROR Đã có lỗi xảy ra: member.guild.channels.setName is not a function. 
+22:57:32.688 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:57:34.924 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+22:58:17.921 ERROR Đã có lỗi xảy ra: db is not defined. 
+22:59:03.845 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:59:07.410 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:00:08.139 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:00:10.538 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:01:22.121 ERROR Đã có lỗi xảy ra: message is not defined. 
+23:01:53.474 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:01:55.835 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:02:27.037 ERROR Đã có lỗi xảy ra: message is not defined. 
+23:03:00.149 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:03:02.766 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:05:52.958 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:05:54.637 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:07:39.301 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:07:42.265 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:20:42.282 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:20:48.361 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:20:54.323 ERROR Đã có lỗi xảy ra: MessageButton is not defined. 
+23:21:21.538 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:21:25.594 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:21:36.080 ERROR Đã có lỗi xảy ra: Invalid Form Body
+components[0].components[1].style: This field is required. 
+23:22:30.734 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:22:33.262 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:22:49.143 ERROR Đã có lỗi xảy ra: Invalid Form Body
+components[0].components[1].style: This field is required. 
+23:24:05.031 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:24:09.130 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:24:16.585 ERROR Đã có lỗi xảy ra: Invalid Form Body
+components[0].components[1].style: This field is required. 
+23:28:18.534 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:28:23.192 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:28:30.442 ERROR Đã có lỗi xảy ra: Invalid Form Body
+components[0].components[0].custom_id: A custom id and url cannot both be specified
+components[0].components[0].url: A custom id and url cannot both be specified
+components[0].components[1].style: This field is required
+components[0].components[2].custom_id: A custom id and url cannot both be specified
+components[0].components[2].url: A custom id and url cannot both be specified. 
+23:29:21.954 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:29:24.129 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:29:33.187 ERROR Đã có lỗi xảy ra: Invalid Form Body
+components[0].components[0].url: A url is required
+components[0].components[1].style: This field is required
+components[0].components[2].url: A url is required. 
+23:30:52.350 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:30:53.976 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:31:02.585 ERROR Đã có lỗi xảy ra: Invalid Form Body
+components[0].components[0].custom_id: A custom id and url cannot both be specified
+components[0].components[0].label: This field is required
+components[0].components[0].url: A custom id and url cannot both be specified
+components[0].components[1].style: This field is required
+components[0].components[2].custom_id: A custom id and url cannot both be specified
+components[0].components[2].label: This field is required
+components[0].components[2].url: A custom id and url cannot both be specified. 
+23:31:38.525 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:31:40.156 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:31:48.695 ERROR Đã có lỗi xảy ra: Invalid Form Body
+components[0].components[0].custom_id: A custom id and url cannot both be specified
+components[0].components[0].url: A custom id and url cannot both be specified
+components[0].components[1].style: This field is required
+components[0].components[2].custom_id: A custom id and url cannot both be specified
+components[0].components[2].url: A custom id and url cannot both be specified. 
+23:33:00.893 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:33:02.612 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:33:16.971 ERROR Đã có lỗi xảy ra: Invalid Form Body
+components[0].components[1].style: This field is required. 
+23:37:07.491 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:37:09.693 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:37:14.496 ERROR Đã có lỗi xảy ra: link is not defined. 
+23:39:28.429 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:39:30.577 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:39:39.547 ERROR Đã có lỗi xảy ra: Invalid Form Body
+components[0].components[1].style: This field is required. 
+23:40:57.954 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:40:59.720 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+23:41:09.400 ERROR Đã có lỗi xảy ra: Invalid Form Body
+components[0].components[1].style: This field is required. 

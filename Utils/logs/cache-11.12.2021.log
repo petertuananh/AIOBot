@@ -1,0 +1,116 @@
+08:09:03.249 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:09:29.102 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:10:53.901 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:10:57.609 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:15:07.056 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:15:10.113 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:17:01.132 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:17:04.064 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:28:07.570 ERROR Đã có lỗi xảy ra: Unknown Message. 
+08:28:07.874 ERROR Đã có lỗi xảy ra: Unknown Message. 
+08:28:31.493 ERROR Đã có lỗi xảy ra: Unknown Message. 
+08:35:17.530 ERROR Đã có lỗi xảy ra: Unknown Message. 
+08:35:17.862 ERROR Đã có lỗi xảy ra: Unknown Message. 
+08:40:01.296 ERROR Đã có lỗi xảy ra: Unknown Message. 
+08:40:01.612 ERROR Đã có lỗi xảy ra: Unknown Message. 
+09:14:43.570 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:14:47.146 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:15:54.777 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:15:57.401 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:18:23.893 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:18:26.422 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:18:48.324 ERROR Đã có lỗi xảy ra: MessageEmbed is not defined. 
+09:19:11.108 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:19:14.091 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:21:20.642 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:21:23.074 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:21:52.737 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+09:32:53.203 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:32:55.392 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:35:54.142 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:35:56.222 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:36:04.722 ERROR Đã có lỗi xảy ra: MessageEmbed is not defined. 
+09:37:13.019 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:37:15.340 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:37:40.913 ERROR Đã có lỗi xảy ra: ch.setParent is not a function. 
+09:41:11.050 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:41:13.387 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:43:53.468 ERROR Đã có lỗi xảy ra: ch.setPosition is not a function. 
+09:44:49.922 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:44:52.365 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:45:09.012 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+09:45:19.564 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+09:53:16.220 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:53:19.717 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+09:57:12.273 ERROR Đã có lỗi xảy ra: Unknown Message. 
+09:57:39.289 ERROR Đã có lỗi xảy ra: Unknown interaction. 
+10:00:38.052 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+10:01:44.449 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'name'). 
+10:05:16.502 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+10:05:54.107 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:05:56.609 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+10:07:50.825 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+10:16:12.338 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:16:15.787 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+10:16:45.833 ERROR The user aborted a request. 
+10:18:04.267 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:18:07.203 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+10:18:07.246 ERROR request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOENT discord.com 
+10:18:12.768 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:18:16.198 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+10:18:16.238 ERROR request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOENT discord.com 
+10:18:35.509 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:18:39.433 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+10:19:15.724 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+10:55:43.476 ERROR Đã có lỗi xảy ra: Unknown Message. 
+10:58:03.668 ERROR Đã có lỗi xảy ra: Unknown Message. 
+10:58:28.058 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+11:00:22.733 ERROR Đã có lỗi xảy ra: Cannot read properties of null (reading 'permissions'). 
+12:46:54.842 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+12:47:16.302 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+12:48:22.500 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+13:01:06.444 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:01:19.019 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:01:53.176 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:01:56.820 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+13:32:59.178 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:33:13.957 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:06:55.039 ERROR Đã có lỗi xảy ra: Supplied roles is not a Role, Snowflake or Array or Collection of Roles or Snowflakes.. 
+14:10:31.927 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+14:10:31.954 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+14:10:31.959 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+14:10:31.964 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+14:10:31.969 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+14:10:31.975 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+14:10:31.979 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+14:10:31.985 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+14:10:31.995 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+14:10:32.006 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+14:10:32.021 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+14:10:32.030 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+14:10:32.037 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+14:10:32.042 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+14:10:32.075 ERROR Đã có lỗi xảy ra: Unknown Channel. 
+15:19:13.604 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:19:37.689 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:30:11.614 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:30:14.659 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:30:59.714 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:31:03.614 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:31:05.400 ERROR Đã có lỗi xảy ra: prefix is not defined. 
+15:31:57.900 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:32:02.042 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:33:08.438 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:33:12.049 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:37:57.406 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:37:59.955 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:40:35.398 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:40:39.150 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:41:50.301 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:41:52.770 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:44:42.102 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:44:44.877 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:45:30.801 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:45:33.942 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+21:52:31.496 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+21:52:56.061 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 

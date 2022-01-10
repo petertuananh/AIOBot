@@ -1,0 +1,259 @@
+00:24:32.512 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:26:05.960 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:28:51.107 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:28:52.748 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+00:31:27.698 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:31:29.255 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+01:36:22.866 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:36:24.799 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+01:37:08.620 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:37:10.403 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+01:38:38.565 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:38:40.431 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+01:40:05.485 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:40:07.462 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+01:42:27.069 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:42:28.925 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+01:46:11.921 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:46:14.636 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+01:46:37.231 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:46:39.093 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+01:46:55.208 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:46:57.193 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+01:47:06.594 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:47:08.557 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+01:59:13.128 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+01:59:15.168 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+02:03:58.929 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+02:04:00.877 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:03:46.129 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:03:49.151 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:04:36.495 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:04:38.271 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:14:33.923 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:14:35.719 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:15:37.704 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:15:39.455 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:17:39.640 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:17:41.194 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:18:38.103 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:18:39.879 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:18:53.707 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:18:55.239 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:19:21.079 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:19:23.246 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:19:52.006 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:19:53.613 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:20:10.401 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:20:11.971 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:20:42.812 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:20:44.509 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:21:46.073 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:21:47.884 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:24:34.300 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:24:36.214 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:26:42.670 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:26:44.509 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:29:22.569 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:29:24.070 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+07:35:32.530 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:35:34.045 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:16:05.081 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:16:07.892 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+08:17:13.706 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:17:23.140 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:17:33.770 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:17:46.193 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:21:09.547 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:22:50.856 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:23:04.450 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:23:18.852 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:23:34.406 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:25:22.474 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:25:42.526 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:26:07.282 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:26:20.337 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:26:34.262 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:26:45.409 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:26:58.379 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:27:06.462 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:27:14.535 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:27:22.407 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:27:30.572 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:27:38.559 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:27:45.175 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:27:52.616 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:27:59.135 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:28:05.269 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:28:10.987 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:30:27.497 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:30:39.290 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:30:47.666 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+08:46:07.038 ERROR Đã có lỗi xảy ra: The operation was aborted. 
+08:46:32.368 ERROR Đã có lỗi xảy ra: Cannot read properties of undefined (reading 'cache'). 
+10:14:41.229 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:15:09.376 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:16:20.447 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:16:22.363 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:17:25.395 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:17:27.234 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:30:17.415 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+10:30:28.878 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+10:31:00.018 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+10:34:05.001 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+10:34:55.060 ERROR Đã có lỗi xảy ra: Cannot destroy VoiceConnection - it has already been destroyed. 
+10:39:08.833 ERROR Đã có lỗi xảy ra: MessageEmbed field values must be non-empty strings.. 
+10:51:05.700 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:51:07.248 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:51:07.796 ERROR An invalid token was provided. 
+10:53:42.347 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:53:43.910 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:53:44.368 ERROR An invalid token was provided. 
+13:38:53.912 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:39:14.137 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:39:35.525 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:39:37.659 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:44:56.960 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:44:58.765 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:45:10.534 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:45:12.668 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:45:28.221 ERROR Đã có lỗi xảy ra: interaction is not defined. 
+13:45:56.808 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:45:59.094 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:46:18.286 ERROR Đã có lỗi xảy ra: interaction is not defined. 
+13:46:38.063 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:46:40.577 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:46:50.115 ERROR Đã có lỗi xảy ra: interaction is not defined. 
+13:47:12.990 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:47:22.184 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:47:31.122 ERROR Đã có lỗi xảy ra: messsage is not defined. 
+13:47:50.266 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:47:52.286 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:48:57.150 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:48:59.994 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:50:06.592 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:50:08.626 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:50:21.275 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:50:23.325 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:50:27.950 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:50:29.926 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:50:37.392 ERROR Đã có lỗi xảy ra: results is not defined. 
+13:51:25.709 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:51:27.940 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:52:36.108 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:52:39.150 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:53:12.561 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:53:14.814 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:53:18.043 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:53:20.252 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:57:11.339 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:57:13.599 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:57:17.336 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:57:19.556 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:57:58.304 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:58:00.877 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+13:58:03.744 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+13:58:06.355 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:00:57.798 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:01:00.875 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:01:03.723 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:01:06.902 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:02:09.028 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:02:11.849 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:02:14.838 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:02:17.368 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:05:28.200 ERROR Have an error: The operation was aborted. 
+14:05:36.440 ERROR Have an error: Cannot destroy VoiceConnection - it has already been destroyed. 
+14:05:43.472 ERROR Have an error: Cannot destroy VoiceConnection - it has already been destroyed. 
+14:05:51.187 ERROR Have an error: The operation was aborted. 
+14:07:05.008 ERROR Have an error: Cannot destroy VoiceConnection - it has already been destroyed. 
+14:07:07.144 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:07:10.358 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:07:13.102 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:07:16.718 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:09:32.072 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:09:36.260 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:09:39.381 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:09:42.047 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:10:12.664 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:10:15.618 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:10:18.435 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:10:21.120 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:12:22.292 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:12:25.087 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:12:27.785 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:12:30.178 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:13:46.664 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:14:13.265 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:14:15.819 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:14:18.269 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:26:17.410 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:26:20.046 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:26:33.206 ERROR Have an error: Unknown Message. 
+14:27:14.238 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:27:16.475 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:27:23.348 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:27:25.489 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:27:30.305 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:27:32.420 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:27:38.591 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:27:41.209 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:41:01.966 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:41:04.586 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:41:13.374 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:41:15.572 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:41:20.823 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:41:22.740 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+14:41:27.716 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:41:30.119 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:49:38.110 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:49:58.724 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:50:46.625 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:50:48.154 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:51:21.930 ERROR Have an error: Missing Access. 
+16:53:12.832 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+16:53:15.119 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+16:53:36.076 ERROR Have an error: Unknown Message. 
+16:53:37.974 ERROR Have an error: Unknown Message. 
+22:02:03.947 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:02:41.374 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:03:39.748 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:03:42.820 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:04:35.821 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:04:38.324 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:07:33.265 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:07:36.123 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:10:44.905 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:10:47.246 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:11:06.011 ERROR Have an error: Invalid Form Body
+embeds[0].image.url: Not a well formed URL.. 
+22:16:01.508 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:16:05.344 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:17:41.340 ERROR Have an error: Cannot access 'link' before initialization. 
+22:18:02.088 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:18:05.118 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:18:10.322 ERROR Have an error: Cannot access 'link' before initialization. 
+22:18:23.557 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:18:26.732 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:20:36.444 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:20:39.372 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:33:34.577 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:33:42.653 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:34:36.807 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:34:45.574 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:36:12.975 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:36:20.345 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:38:45.578 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+22:38:57.298 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+22:41:21.051 ERROR Have an error: getaddrinfo ENOTFOUND no-api-key.com. 
+23:00:17.543 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:00:19.492 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:01:20.250 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:01:22.112 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:06:01.517 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:06:06.953 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:56:28.526 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:56:39.876 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+23:59:39.677 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+23:59:41.538 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+

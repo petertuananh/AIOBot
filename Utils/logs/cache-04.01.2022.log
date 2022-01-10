@@ -1,0 +1,15 @@
+07:44:18.013 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:44:45.423 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+09:59:08.263 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+09:59:34.840 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:10:53.300 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:10:55.881 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:11:39.717 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:11:41.775 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:12:39.770 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:12:42.110 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:12:42.240 ERROR request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo ENOENT discord.com 
+10:13:01.846 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+10:13:03.509 INFO  c Loading event(s) -=-=-=-=-=-=-= 
+10:15:59.715 ERROR Have an error: Invalid Form Body
+embeds[0].fields[2].value: Must be 1024 or fewer in length.. 

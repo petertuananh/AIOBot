@@ -1,0 +1,164 @@
+00:10:11.803 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:10:13.900 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:13:02.804 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:13:05.033 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:13:42.131 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:13:43.743 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:15:04.720 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:15:06.380 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+00:25:18.907 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+00:25:21.503 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:44:00.866 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:44:03.838 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:45:35.977 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:45:37.894 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+06:49:26.121 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+06:49:27.845 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:06:02.067 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:06:03.874 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:07:20.567 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:07:22.183 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:09:02.914 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:09:04.615 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:30:33.619 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:30:35.403 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:41:15.997 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:41:17.852 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+07:53:35.053 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+07:53:37.568 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:09:40.468 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:09:42.803 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:12:23.473 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:12:25.426 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:13:48.020 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:13:49.862 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:16:58.728 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:17:01.076 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:37:46.829 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:37:49.190 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:38:11.575 ERROR Đã có lỗi xảy ra: "[**Click to invite**]" is not a function. 
+08:38:30.453 ERROR Đã có lỗi xảy ra: "Invite Link", "[Click here to invite me]" is not a function. 
+08:39:34.431 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:39:36.650 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:41:14.640 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:41:16.456 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+08:41:30.929 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].author.url: Scheme "aiobot.tk" is not supported. Scheme must be one of ('http', 'https').. 
+08:42:43.404 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+08:42:45.726 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:01:36.415 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:01:59.309 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:02:26.331 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:02:28.866 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:05:01.273 ERROR Đã có lỗi xảy ra: message is not defined. 
+14:05:34.052 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:05:36.650 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:05:41.931 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "true" is not supported. Scheme must be one of ('http', 'https').. 
+14:06:11.620 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:06:13.892 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:10:56.893 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:10:59.211 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:12:44.128 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:12:48.918 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:26:02.470 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:26:11.545 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:28:37.787 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "<#915454228657483827>" is not supported. Scheme must be one of ('http', 'https').. 
+14:29:39.419 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:29:41.572 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:30:00.799 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "<#915454228657483827>" is not supported. Scheme must be one of ('http', 'https').. 
+14:32:22.266 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:32:24.079 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:32:58.148 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "default" is not supported. Scheme must be one of ('http', 'https').. 
+14:33:42.906 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "default" is not supported. Scheme must be one of ('http', 'https').. 
+14:35:33.188 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:35:34.998 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:36:29.346 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "default" is not supported. Scheme must be one of ('http', 'https').. 
+14:39:00.396 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:39:02.429 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:39:26.618 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "default" is not supported. Scheme must be one of ('http', 'https').. 
+14:40:29.119 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:40:30.950 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:40:39.598 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "defaultimg" is not supported. Scheme must be one of ('http', 'https').. 
+14:42:04.333 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:42:06.133 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:42:17.049 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "default" is not supported. Scheme must be one of ('http', 'https').. 
+14:42:38.481 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:42:40.314 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:42:51.125 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "default" is not supported. Scheme must be one of ('http', 'https').. 
+14:43:11.135 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:43:12.854 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:44:21.339 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:44:23.141 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:44:43.488 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "default" is not supported. Scheme must be one of ('http', 'https').. 
+14:45:46.632 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:45:48.504 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:46:24.826 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "default" is not supported. Scheme must be one of ('http', 'https').. 
+14:46:43.647 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "none" is not supported. Scheme must be one of ('http', 'https').. 
+14:46:43.939 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "none" is not supported. Scheme must be one of ('http', 'https').. 
+14:48:11.073 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:48:12.868 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:48:33.276 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "none" is not supported. Scheme must be one of ('http', 'https').. 
+14:48:33.561 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "none" is not supported. Scheme must be one of ('http', 'https').. 
+14:49:38.162 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:49:39.803 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:49:51.681 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "default" is not supported. Scheme must be one of ('http', 'https').. 
+14:50:44.566 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:50:46.222 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:51:00.009 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "default" is not supported. Scheme must be one of ('http', 'https').. 
+14:52:56.776 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:52:58.538 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:53:10.114 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "default" is not supported. Scheme must be one of ('http', 'https').. 
+14:55:25.182 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:55:26.975 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:55:40.196 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "default" is not supported. Scheme must be one of ('http', 'https').. 
+14:56:27.049 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+14:56:30.184 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+14:59:23.831 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "default" is not supported. Scheme must be one of ('http', 'https').. 
+15:01:00.696 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:01:16.840 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:01:57.729 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:01:59.546 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:02:27.320 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "default" is not supported. Scheme must be one of ('http', 'https').. 
+15:06:00.690 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:06:03.270 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:06:13.157 ERROR Đã có lỗi xảy ra: Invalid Form Body
+embeds[0].image.url: Scheme "defaul" is not supported. Scheme must be one of ('http', 'https').. 
+15:09:30.251 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:09:34.588 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:10:22.638 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:10:24.880 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:10:36.995 ERROR Đã có lỗi xảy ra: Request failed with status code 400. 
+15:14:15.121 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:14:17.436 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+15:14:24.191 ERROR Đã có lỗi xảy ra: Request failed with status code 400. 
+15:16:59.793 ERROR Đã có lỗi xảy ra: read ECONNRESET. 
+15:26:42.023 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+15:26:45.262 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:03:26.869 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:03:29.356 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:03:51.151 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:03:52.941 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
+19:07:14.551 INFO  =-=-=-=-=-=-=- Loading command(s) -=-=-=-=-=-=-= 
+19:07:16.817 INFO  =-=-=-=-=-=-=- Loading event(s) -=-=-=-=-=-=-= 
