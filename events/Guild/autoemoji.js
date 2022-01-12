@@ -12,11 +12,10 @@ client.on('messageCreate', async message => {
     if (message.author.bot) return;
   
     const twebhooks = [];
-    const list = [];
+    let list = message.content
     const embeds = [];
     const servere = [];
-  
-    list.push(message.content);
+
     if (message.content.includes(`:`)) {
       const guild = client.guilds.cache.map((e) => e)
       for (const a of guild) {
@@ -30,14 +29,13 @@ client.on('messageCreate', async message => {
           if (!list[0].includes(`<:${i.name}:`)) {
             if (!list[0].includes(`<a:${i.name}:`)) {
               if (i.available) {
-                list.push(list[0].replace(`:${i.name}:`, `${i}`));
-                list.shift();
+                list = list.replace(`:${i.name}:`, `${i}`);
               }
             }
           }
         }
       }
-      if (list[0] != message.content) {
+      if (list != message.content) {
         try {
           message.delete();
         } catch{
@@ -79,7 +77,7 @@ client.on('messageCreate', async message => {
         });
         if (twebhooks[0] != null) {
           twebhooks[0].send({
-            content: list[0],
+            content: list,
             username: message.member.nickname || message.author.username,
             avatarURL: message.author.displayAvatarURL(),
             embeds: embeds
@@ -88,7 +86,7 @@ client.on('messageCreate', async message => {
         if (twebhooks[0] == null) {
           const wh = await message.channel.createWebhook(client.user.username)
           wh.send({
-            content: list[0],
+            content: list,
             username: message.member.nickname || message.author.username,
             avatarURL: message.author.avatarURL(),
             embeds: embeds
